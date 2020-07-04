@@ -1,0 +1,806 @@
+,checkout_kiosk,return_kiosk,trip_count,checkout_lat,checkout_long,return_lat,return_long
+0,Dean Keeton & Speedway,21st & Speedway @PCL,2851,30.28953,-97.73695,30.283,-97.7375
+12,21st & Speedway @PCL,21st & Speedway @PCL,792,30.283,-97.7375,30.283,-97.7375
+3,22nd & Pearl,21st & Speedway @PCL,1233,30.2853,-97.7467,30.283,-97.7375
+5,23rd & Rio Grande,21st & Speedway @PCL,910,30.28728,-97.74495,30.283,-97.7375
+9,Nueces & 26th,21st & Speedway @PCL,820,30.29068,-97.74292,30.283,-97.7375
+10,Rio Grande & 28th,21st & Speedway @PCL,816,30.293329999999997,-97.74412,30.283,-97.7375
+11,UT West Mall @ Guadalupe,21st & Speedway @PCL,812,30.285759999999996,-97.74181,30.283,-97.7375
+15,Guadalupe & 21st,21st & Speedway @PCL,716,30.28395,-97.74198,30.283,-97.7375
+18,Dean Keeton & Whitis,21st & Speedway @PCL,618,30.2898,-97.74041,30.283,-97.7375
+104,21st & University,21st & Speedway @PCL,144,30.283540000000002,-97.73953,30.283,-97.7375
+260,11th & Salina,21st & Speedway @PCL,59,30.266379999999998,-97.7214,30.283,-97.7375
+58,23rd & San Jacinto @ DKR Stadium,21st & Speedway @PCL,268,30.2856,-97.7335,30.283,-97.7375
+234,Capitol Station / Congress & 11th,21st & Speedway @PCL,66,30.2726,-97.74127,30.283,-97.7375
+748,East 11th St. & San Marcos,21st & Speedway @PCL,22,30.269679999999997,-97.73074,30.283,-97.7375
+191,17th & Guadalupe,21st & Speedway @PCL,80,30.279740000000004,-97.74254,30.283,-97.7375
+789,Rosewood & Angelina,21st & Speedway @PCL,21,30.26888,-97.72431,30.283,-97.7375
+29,Dean Keeton & Speedway,21st & University,441,30.28953,-97.73695,30.283540000000002,-97.73953
+66,21st & Speedway @PCL,21st & University,241,30.283,-97.7375,30.283540000000002,-97.73953
+30,22nd & Pearl,21st & University,430,30.2853,-97.7467,30.283540000000002,-97.73953
+38,23rd & Rio Grande,21st & University,330,30.28728,-97.74495,30.283540000000002,-97.73953
+75,Nueces & 26th,21st & University,197,30.29068,-97.74292,30.283540000000002,-97.73953
+33,Rio Grande & 28th,21st & University,401,30.293329999999997,-97.74412,30.283540000000002,-97.73953
+107,UT West Mall @ Guadalupe,21st & University,140,30.285759999999996,-97.74181,30.283540000000002,-97.73953
+202,Guadalupe & 21st,21st & University,77,30.28395,-97.74198,30.283540000000002,-97.73953
+446,Dean Keeton & Whitis,21st & University,38,30.2898,-97.74041,30.283540000000002,-97.73953
+205,21st & University,21st & University,75,30.283540000000002,-97.73953,30.283540000000002,-97.73953
+200,23rd & San Jacinto @ DKR Stadium,21st & University,78,30.2856,-97.7335,30.283540000000002,-97.73953
+541,3rd & West,21st & University,31,30.2678,-97.75189,30.283540000000002,-97.73953
+39,Dean Keeton & Speedway,23rd & San Jacinto @ DKR Stadium,326,30.28953,-97.73695,30.2856,-97.7335
+17,21st & Speedway @PCL,23rd & San Jacinto @ DKR Stadium,622,30.283,-97.7375,30.2856,-97.7335
+162,22nd & Pearl,23rd & San Jacinto @ DKR Stadium,94,30.2853,-97.7467,30.2856,-97.7335
+178,23rd & Rio Grande,23rd & San Jacinto @ DKR Stadium,85,30.28728,-97.74495,30.2856,-97.7335
+100,Nueces & 26th,23rd & San Jacinto @ DKR Stadium,150,30.29068,-97.74292,30.2856,-97.7335
+101,Rio Grande & 28th,23rd & San Jacinto @ DKR Stadium,148,30.293329999999997,-97.74412,30.2856,-97.7335
+135,UT West Mall @ Guadalupe,23rd & San Jacinto @ DKR Stadium,107,30.285759999999996,-97.74181,30.2856,-97.7335
+103,Guadalupe & 21st,23rd & San Jacinto @ DKR Stadium,146,30.28395,-97.74198,30.2856,-97.7335
+152,Dean Keeton & Whitis,23rd & San Jacinto @ DKR Stadium,100,30.2898,-97.74041,30.2856,-97.7335
+96,21st & University,23rd & San Jacinto @ DKR Stadium,153,30.283540000000002,-97.73953,30.2856,-97.7335
+77,23rd & San Jacinto @ DKR Stadium,23rd & San Jacinto @ DKR Stadium,190,30.2856,-97.7335,30.2856,-97.7335
+538,State Capitol Visitors Garage @ San Jacinto & 12th,23rd & San Jacinto @ DKR Stadium,31,30.273359999999997,-97.73805,30.2856,-97.7335
+53,Dean Keeton & Speedway,Rio Grande & 28th,272,30.28953,-97.73695,30.293329999999997,-97.74412
+14,21st & Speedway @PCL,Rio Grande & 28th,718,30.283,-97.7375,30.293329999999997,-97.74412
+122,22nd & Pearl,Rio Grande & 28th,117,30.2853,-97.7467,30.293329999999997,-97.74412
+44,23rd & Rio Grande,Rio Grande & 28th,306,30.28728,-97.74495,30.293329999999997,-97.74412
+139,Nueces & 26th,Rio Grande & 28th,105,30.29068,-97.74292,30.293329999999997,-97.74412
+61,Rio Grande & 28th,Rio Grande & 28th,257,30.293329999999997,-97.74412,30.293329999999997,-97.74412
+64,UT West Mall @ Guadalupe,Rio Grande & 28th,247,30.285759999999996,-97.74181,30.293329999999997,-97.74412
+54,Guadalupe & 21st,Rio Grande & 28th,272,30.28395,-97.74198,30.293329999999997,-97.74412
+143,Dean Keeton & Whitis,Rio Grande & 28th,103,30.2898,-97.74041,30.293329999999997,-97.74412
+36,21st & University,Rio Grande & 28th,341,30.283540000000002,-97.73953,30.293329999999997,-97.74412
+251,23rd & San Jacinto @ DKR Stadium,Rio Grande & 28th,61,30.2856,-97.7335,30.293329999999997,-97.74412
+667,6th & Congress,Rio Grande & 28th,25,30.26822,-97.74285,30.293329999999997,-97.74412
+348,17th & Guadalupe,Rio Grande & 28th,47,30.279740000000004,-97.74254,30.293329999999997,-97.74412
+55,Dean Keeton & Speedway,Dean Keeton & Speedway,270,30.28953,-97.73695,30.28953,-97.73695
+1,21st & Speedway @PCL,Dean Keeton & Speedway,2794,30.283,-97.7375,30.28953,-97.73695
+56,22nd & Pearl,Dean Keeton & Speedway,269,30.2853,-97.7467,30.28953,-97.73695
+40,23rd & Rio Grande,Dean Keeton & Speedway,316,30.28728,-97.74495,30.28953,-97.73695
+31,Nueces & 26th,Dean Keeton & Speedway,423,30.29068,-97.74292,30.28953,-97.73695
+23,Rio Grande & 28th,Dean Keeton & Speedway,515,30.293329999999997,-97.74412,30.28953,-97.73695
+79,UT West Mall @ Guadalupe,Dean Keeton & Speedway,181,30.285759999999996,-97.74181,30.28953,-97.73695
+43,Guadalupe & 21st,Dean Keeton & Speedway,308,30.28395,-97.74198,30.28953,-97.73695
+92,Dean Keeton & Whitis,Dean Keeton & Speedway,159,30.2898,-97.74041,30.28953,-97.73695
+34,21st & University,Dean Keeton & Speedway,396,30.283540000000002,-97.73953,30.28953,-97.73695
+91,23rd & San Jacinto @ DKR Stadium,Dean Keeton & Speedway,162,30.2856,-97.7335,30.28953,-97.73695
+559,Nueces & 3rd,Dean Keeton & Speedway,30,30.26697,-97.74929,30.28953,-97.73695
+743,17th & Guadalupe,Dean Keeton & Speedway,22,30.279740000000004,-97.74254,30.28953,-97.73695
+59,Dean Keeton & Speedway,Guadalupe & 21st,265,30.28953,-97.73695,30.28395,-97.74198
+20,21st & Speedway @PCL,Guadalupe & 21st,534,30.283,-97.7375,30.28395,-97.74198
+51,22nd & Pearl,Guadalupe & 21st,281,30.2853,-97.7467,30.28395,-97.74198
+78,23rd & Rio Grande,Guadalupe & 21st,184,30.28728,-97.74495,30.28395,-97.74198
+65,Nueces & 26th,Guadalupe & 21st,242,30.29068,-97.74292,30.28395,-97.74198
+24,Rio Grande & 28th,Guadalupe & 21st,488,30.293329999999997,-97.74412,30.28395,-97.74198
+136,UT West Mall @ Guadalupe,Guadalupe & 21st,106,30.285759999999996,-97.74181,30.28395,-97.74198
+148,Guadalupe & 21st,Guadalupe & 21st,102,30.28395,-97.74198,30.28395,-97.74198
+294,Dean Keeton & Whitis,Guadalupe & 21st,54,30.2898,-97.74041,30.28395,-97.74198
+444,21st & University,Guadalupe & 21st,38,30.283540000000002,-97.73953,30.28395,-97.74198
+259,23rd & San Jacinto @ DKR Stadium,Guadalupe & 21st,59,30.2856,-97.7335,30.28395,-97.74198
+512,3rd & West,Guadalupe & 21st,33,30.2678,-97.75189,30.28395,-97.74198
+71,Dean Keeton & Speedway,23rd & Rio Grande,234,30.28953,-97.73695,30.28728,-97.74495
+16,21st & Speedway @PCL,23rd & Rio Grande,627,30.283,-97.7375,30.28728,-97.74495
+237,22nd & Pearl,23rd & Rio Grande,65,30.2853,-97.7467,30.28728,-97.74495
+233,23rd & Rio Grande,23rd & Rio Grande,67,30.28728,-97.74495,30.28728,-97.74495
+238,Nueces & 26th,23rd & Rio Grande,65,30.29068,-97.74292,30.28728,-97.74495
+57,Rio Grande & 28th,23rd & Rio Grande,269,30.293329999999997,-97.74412,30.28728,-97.74495
+173,UT West Mall @ Guadalupe,23rd & Rio Grande,90,30.285759999999996,-97.74181,30.28728,-97.74495
+84,Guadalupe & 21st,23rd & Rio Grande,172,30.28395,-97.74198,30.28728,-97.74495
+428,Dean Keeton & Whitis,23rd & Rio Grande,40,30.2898,-97.74041,30.28728,-97.74495
+60,21st & University,23rd & Rio Grande,261,30.283540000000002,-97.73953,30.28728,-97.74495
+350,23rd & San Jacinto @ DKR Stadium,23rd & Rio Grande,46,30.2856,-97.7335,30.28728,-97.74495
+74,Dean Keeton & Speedway,Nueces & 26th,216,30.28953,-97.73695,30.29068,-97.74292
+19,21st & Speedway @PCL,Nueces & 26th,613,30.283,-97.7375,30.29068,-97.74292
+134,22nd & Pearl,Nueces & 26th,108,30.2853,-97.7467,30.29068,-97.74292
+183,23rd & Rio Grande,Nueces & 26th,83,30.28728,-97.74495,30.29068,-97.74292
+144,Nueces & 26th,Nueces & 26th,103,30.29068,-97.74292,30.29068,-97.74292
+230,Rio Grande & 28th,Nueces & 26th,67,30.293329999999997,-97.74412,30.29068,-97.74292
+225,UT West Mall @ Guadalupe,Nueces & 26th,68,30.285759999999996,-97.74181,30.29068,-97.74292
+86,Guadalupe & 21st,Nueces & 26th,171,30.28395,-97.74198,30.29068,-97.74292
+627,Dean Keeton & Whitis,Nueces & 26th,27,30.2898,-97.74041,30.29068,-97.74292
+90,21st & University,Nueces & 26th,162,30.283540000000002,-97.73953,30.29068,-97.74292
+189,23rd & San Jacinto @ DKR Stadium,Nueces & 26th,80,30.2856,-97.7335,30.29068,-97.74292
+80,Dean Keeton & Speedway,22nd & Pearl,178,30.28953,-97.73695,30.2853,-97.7467
+8,21st & Speedway @PCL,22nd & Pearl,835,30.283,-97.7375,30.2853,-97.7467
+128,22nd & Pearl,22nd & Pearl,114,30.2853,-97.7467,30.2853,-97.7467
+364,23rd & Rio Grande,22nd & Pearl,45,30.28728,-97.74495,30.2853,-97.7467
+114,Nueces & 26th,22nd & Pearl,133,30.29068,-97.74292,30.2853,-97.7467
+95,Rio Grande & 28th,22nd & Pearl,154,30.293329999999997,-97.74412,30.2853,-97.7467
+42,UT West Mall @ Guadalupe,22nd & Pearl,310,30.285759999999996,-97.74181,30.2853,-97.7467
+48,Guadalupe & 21st,22nd & Pearl,297,30.28395,-97.74198,30.2853,-97.7467
+497,Dean Keeton & Whitis,22nd & Pearl,34,30.2898,-97.74041,30.2853,-97.7467
+62,21st & University,22nd & Pearl,254,30.283540000000002,-97.73953,30.2853,-97.7467
+231,23rd & San Jacinto @ DKR Stadium,22nd & Pearl,67,30.2856,-97.7335,30.2853,-97.7467
+85,Dean Keeton & Speedway,UT West Mall @ Guadalupe,172,30.28953,-97.73695,30.285759999999996,-97.74181
+21,21st & Speedway @PCL,UT West Mall @ Guadalupe,526,30.283,-97.7375,30.285759999999996,-97.74181
+25,22nd & Pearl,UT West Mall @ Guadalupe,477,30.2853,-97.7467,30.285759999999996,-97.74181
+137,23rd & Rio Grande,UT West Mall @ Guadalupe,106,30.28728,-97.74495,30.285759999999996,-97.74181
+98,Nueces & 26th,UT West Mall @ Guadalupe,152,30.29068,-97.74292,30.285759999999996,-97.74181
+37,Rio Grande & 28th,UT West Mall @ Guadalupe,337,30.293329999999997,-97.74412,30.285759999999996,-97.74181
+304,UT West Mall @ Guadalupe,UT West Mall @ Guadalupe,53,30.285759999999996,-97.74181,30.285759999999996,-97.74181
+228,Guadalupe & 21st,UT West Mall @ Guadalupe,67,30.28395,-97.74198,30.285759999999996,-97.74181
+343,Dean Keeton & Whitis,UT West Mall @ Guadalupe,47,30.2898,-97.74041,30.285759999999996,-97.74181
+186,21st & University,UT West Mall @ Guadalupe,82,30.283540000000002,-97.73953,30.285759999999996,-97.74181
+214,23rd & San Jacinto @ DKR Stadium,UT West Mall @ Guadalupe,73,30.2856,-97.7335,30.285759999999996,-97.74181
+516,17th & Guadalupe,UT West Mall @ Guadalupe,32,30.279740000000004,-97.74254,30.285759999999996,-97.74181
+155,Dean Keeton & Speedway,Dean Keeton & Whitis,98,30.28953,-97.73695,30.2898,-97.74041
+27,21st & Speedway @PCL,Dean Keeton & Whitis,461,30.283,-97.7375,30.2898,-97.74041
+190,22nd & Pearl,Dean Keeton & Whitis,80,30.2853,-97.7467,30.2898,-97.74041
+328,23rd & Rio Grande,Dean Keeton & Whitis,49,30.28728,-97.74495,30.2898,-97.74041
+707,Nueces & 26th,Dean Keeton & Whitis,24,30.29068,-97.74292,30.2898,-97.74041
+140,Rio Grande & 28th,Dean Keeton & Whitis,105,30.293329999999997,-97.74412,30.2898,-97.74041
+571,UT West Mall @ Guadalupe,Dean Keeton & Whitis,30,30.285759999999996,-97.74181,30.2898,-97.74041
+206,Guadalupe & 21st,Dean Keeton & Whitis,75,30.28395,-97.74198,30.2898,-97.74041
+473,Dean Keeton & Whitis,Dean Keeton & Whitis,36,30.2898,-97.74041,30.2898,-97.74041
+361,21st & University,Dean Keeton & Whitis,45,30.283540000000002,-97.73953,30.2898,-97.74041
+519,23rd & San Jacinto @ DKR Stadium,Dean Keeton & Whitis,32,30.2856,-97.7335,30.2898,-97.74041
+629,Dean Keeton & Speedway,Nueces & 3rd,27,30.28953,-97.73695,30.26697,-97.74929
+711,21st & Speedway @PCL,Nueces & 3rd,23,30.283,-97.7375,30.26697,-97.74929
+441,Riverside @ S. Lamar,Nueces & 3rd,39,30.264459999999996,-97.75665,30.26697,-97.74929
+360,MoPac Pedestrian Bridge @ Veterans Drive,Nueces & 3rd,45,30.274659999999997,-97.77028,30.26697,-97.74929
+224,Rainey St @ Cummings,Nueces & 3rd,68,30.25579,-97.73982,30.26697,-97.74929
+429,Guadalupe & 21st,Nueces & 3rd,40,30.28395,-97.74198,30.26697,-97.74929
+585,Pfluger Bridge @ W 2nd Street,Nueces & 3rd,29,30.26717,-97.75484,30.26697,-97.74929
+573,21st & University,Nueces & 3rd,29,30.283540000000002,-97.73953,30.26697,-97.74929
+790,Long Center @ South 1st & Riverside,Nueces & 3rd,21,30.25941,-97.74971,30.26697,-97.74929
+714,2nd & Congress,Nueces & 3rd,23,30.26408,-97.74355,30.26697,-97.74929
+411,8th & Congress,Nueces & 3rd,41,30.2698,-97.74186,30.26697,-97.74929
+239,Plaza Saltillo,Nueces & 3rd,65,30.26217,-97.72743,30.26697,-97.74929
+254,Davis at Rainey Street,Nueces & 3rd,60,30.26019,-97.73845,30.26697,-97.74929
+281,3rd & West,Nueces & 3rd,55,30.2678,-97.75189,30.26697,-97.74929
+299,Convention Center / 3rd & Trinity,Nueces & 3rd,53,30.264259999999997,-97.74023000000001,30.26697,-97.74929
+616,Red River/Cesar Chavez @ The Fairmont,Nueces & 3rd,28,30.26212,-97.73815,30.26697,-97.74929
+367,4th & Congress,Nueces & 3rd,45,30.266340000000003,-97.74378,30.26697,-97.74929
+583,6th & Congress,Nueces & 3rd,29,30.26822,-97.74285,30.26697,-97.74929
+164,5th & Bowie,Nueces & 3rd,93,30.2696,-97.75332,30.26697,-97.74929
+146,Nueces & 3rd,Nueces & 3rd,102,30.26697,-97.74929,30.26697,-97.74929
+424,17th & Guadalupe,Nueces & 3rd,40,30.279740000000004,-97.74254,30.26697,-97.74929
+342,Brazos & 6th,Nueces & 3rd,48,30.267540000000004,-97.74154,30.26697,-97.74929
+269,East 4th & Chicon,Nueces & 3rd,57,30.259870000000003,-97.72373,30.26697,-97.74929
+780,East 6th & Pedernales St.,Nueces & 3rd,21,30.25895,-97.71475,30.26697,-97.74929
+614,Convention Center / 4th St. @ MetroRail,Nueces & 3rd,28,30.26483,-97.73899999999999,30.26697,-97.74929
+550,13th & San Antonio,Nueces & 3rd,31,30.276159999999997,-97.74488000000001,30.26697,-97.74929
+180,21st & Speedway @PCL,Capitol Station / Congress & 11th,83,30.283,-97.7375,30.2726,-97.74127
+750,Riverside @ S. Lamar,Capitol Station / Congress & 11th,22,30.264459999999996,-97.75665,30.2726,-97.74127
+689,Pfluger Bridge @ W 2nd Street,Capitol Station / Congress & 11th,24,30.26717,-97.75484,30.2726,-97.74127
+670,21st & University,Capitol Station / Congress & 11th,25,30.283540000000002,-97.73953,30.2726,-97.74127
+776,South Congress & Barton Springs at the Austin American-Statesman,Capitol Station / Congress & 11th,21,30.258390000000002,-97.74592,30.2726,-97.74127
+498,2nd & Congress,Capitol Station / Congress & 11th,33,30.26408,-97.74355,30.2726,-97.74127
+63,Capitol Station / Congress & 11th,Capitol Station / Congress & 11th,253,30.2726,-97.74127,30.2726,-97.74127
+485,8th & Congress,Capitol Station / Congress & 11th,35,30.2698,-97.74186,30.2726,-97.74127
+690,City Hall / Lavaca & 2nd,Capitol Station / Congress & 11th,24,30.26476,-97.74678,30.2726,-97.74127
+373,6th & Congress,Capitol Station / Congress & 11th,44,30.26822,-97.74285,30.2726,-97.74127
+625,State Capitol Visitors Garage @ San Jacinto & 12th,Capitol Station / Congress & 11th,27,30.273359999999997,-97.73805,30.2726,-97.74127
+593,South Congress & Elizabeth,Capitol Station / Congress & 11th,29,30.24891,-97.75019,30.2726,-97.74127
+536,South Congress & James,Capitol Station / Congress & 11th,32,30.25103,-97.74925999999999,30.2726,-97.74127
+769,Brazos & 6th,Capitol Station / Congress & 11th,22,30.267540000000004,-97.74154,30.2726,-97.74127
+775,11th & San Jacinto,Capitol Station / Congress & 11th,21,30.271929999999998,-97.73854,30.2726,-97.74127
+252,21st & Speedway @PCL,San Jacinto & 8th Street,61,30.283,-97.7375,30.26912,-97.73986
+89,East 11th St. & San Marcos,San Jacinto & 8th Street,163,30.269679999999997,-97.73074,30.26912,-97.73986
+766,State Capitol Visitors Garage @ San Jacinto & 12th,San Jacinto & 8th Street,22,30.273359999999997,-97.73805,30.26912,-97.73986
+426,8th & Lavaca,San Jacinto & 8th Street,40,30.270590000000002,-97.74441,30.26912,-97.73986
+282,21st & Speedway @PCL,17th & Guadalupe,55,30.283,-97.7375,30.279740000000004,-97.74254
+257,Rio Grande & 28th,17th & Guadalupe,60,30.293329999999997,-97.74412,30.279740000000004,-97.74254
+320,UT West Mall @ Guadalupe,17th & Guadalupe,50,30.285759999999996,-97.74181,30.279740000000004,-97.74254
+514,Guadalupe & 21st,17th & Guadalupe,33,30.28395,-97.74198,30.279740000000004,-97.74254
+792,21st & University,17th & Guadalupe,21,30.283540000000002,-97.73953,30.279740000000004,-97.74254
+778,City Hall / Lavaca & 2nd,17th & Guadalupe,21,30.26476,-97.74678,30.279740000000004,-97.74254
+358,17th & Guadalupe,17th & Guadalupe,46,30.279740000000004,-97.74254,30.279740000000004,-97.74254
+354,21st & Speedway @PCL,11th & Salina,46,30.283,-97.7375,30.266379999999998,-97.7214
+46,11th & Salina,11th & Salina,302,30.266379999999998,-97.7214,30.266379999999998,-97.7214
+392,21st & Speedway @PCL,3rd & West,42,30.283,-97.7375,30.2678,-97.75189
+203,Riverside @ S. Lamar,3rd & West,76,30.264459999999996,-97.75665,30.2678,-97.75189
+539,Zilker Park,3rd & West,31,30.2659,-97.76822,30.2678,-97.75189
+656,23rd & Rio Grande,3rd & West,26,30.28728,-97.74495,30.2678,-97.75189
+285,MoPac Pedestrian Bridge @ Veterans Drive,3rd & West,55,30.274659999999997,-97.77028,30.2678,-97.75189
+111,Rainey St @ Cummings,3rd & West,137,30.25579,-97.73982,30.2678,-97.75189
+481,Guadalupe & 21st,3rd & West,35,30.28395,-97.74198,30.2678,-97.75189
+458,Barton Springs Pool,3rd & West,37,30.26452,-97.7712,30.2678,-97.75189
+388,Pfluger Bridge @ W 2nd Street,3rd & West,43,30.26717,-97.75484,30.2678,-97.75189
+762,21st & University,3rd & West,22,30.283540000000002,-97.73953,30.2678,-97.75189
+440,Palmer Auditorium,3rd & West,39,30.25971,-97.75346,30.2678,-97.75189
+462,Congress & Cesar Chavez,3rd & West,37,30.26332,-97.74508,30.2678,-97.75189
+590,Sterzing at Barton Springs,3rd & West,29,30.264059999999997,-97.76385,30.2678,-97.75189
+584,Long Center @ South 1st & Riverside,3rd & West,29,30.25941,-97.74971,30.2678,-97.75189
+147,2nd & Congress,3rd & West,102,30.26408,-97.74355,30.2678,-97.75189
+554,Capitol Station / Congress & 11th,3rd & West,30,30.2726,-97.74127,30.2678,-97.75189
+76,8th & Congress,3rd & West,195,30.2698,-97.74186,30.2678,-97.75189
+372,City Hall / Lavaca & 2nd,3rd & West,44,30.26476,-97.74678,30.2678,-97.75189
+264,Republic Square @ 5th & Guadalupe,3rd & West,58,30.267529999999997,-97.74805,30.2678,-97.75189
+580,Davis at Rainey Street,3rd & West,29,30.26019,-97.73845,30.2678,-97.75189
+99,3rd & West,3rd & West,151,30.2678,-97.75189,30.2678,-97.75189
+437,Convention Center / 3rd & Trinity,3rd & West,39,30.264259999999997,-97.74023000000001,30.2678,-97.75189
+194,4th & Congress,3rd & West,80,30.266340000000003,-97.74378,30.2678,-97.75189
+123,6th & Congress,3rd & West,116,30.26822,-97.74285,30.2678,-97.75189
+302,5th & Bowie,3rd & West,53,30.2696,-97.75332,30.2678,-97.75189
+459,Nueces & 3rd,3rd & West,37,30.26697,-97.74929,30.2678,-97.75189
+283,Barton Springs @ Kinney Ave,3rd & West,55,30.261999999999997,-97.76118000000001,30.2678,-97.75189
+542,17th & Guadalupe,3rd & West,31,30.279740000000004,-97.74254,30.2678,-97.75189
+218,5th & Campbell,3rd & West,72,30.274890000000003,-97.76483,30.2678,-97.75189
+739,Henderson & 9th,3rd & West,22,30.272170000000003,-97.75246,30.2678,-97.75189
+626,Brazos & 6th,3rd & West,27,30.267540000000004,-97.74154,30.2678,-97.75189
+691,Convention Center / 4th St. @ MetroRail,3rd & West,24,30.26483,-97.73899999999999,30.2678,-97.75189
+726,Lavaca & 6th,3rd & West,23,30.268890000000003,-97.74525,30.2678,-97.75189
+726,Lavaca & 6th,3rd & West,23,30.269109999999998,-97.7462,30.2678,-97.75189
+558,21st & Speedway @PCL,8th & Congress,30,30.283,-97.7375,30.2698,-97.74186
+483,Pfluger Bridge @ W 2nd Street,8th & Congress,35,30.26717,-97.75484,30.2698,-97.74186
+339,Capitol Station / Congress & 11th,8th & Congress,48,30.2726,-97.74127,30.2698,-97.74186
+341,8th & Congress,8th & Congress,48,30.2698,-97.74186,30.2698,-97.74186
+81,Plaza Saltillo,8th & Congress,176,30.26217,-97.72743,30.2698,-97.74186
+196,3rd & West,8th & Congress,79,30.2678,-97.75189,30.2698,-97.74186
+604,Convention Center / 4th St. @ MetroRail,8th & Congress,28,30.26483,-97.73899999999999,30.2698,-97.74186
+607,21st & Speedway @PCL,5th & Bowie,28,30.283,-97.7375,30.2696,-97.75332
+457,Riverside @ S. Lamar,5th & Bowie,38,30.264459999999996,-97.75665,30.2696,-97.75332
+662,MoPac Pedestrian Bridge @ Veterans Drive,5th & Bowie,26,30.274659999999997,-97.77028,30.2696,-97.75332
+402,Rainey St @ Cummings,5th & Bowie,42,30.25579,-97.73982,30.2696,-97.75332
+650,Pfluger Bridge @ W 2nd Street,5th & Bowie,26,30.26717,-97.75484,30.2696,-97.75332
+677,Congress & Cesar Chavez,5th & Bowie,25,30.26332,-97.74508,30.2696,-97.75332
+723,Plaza Saltillo,5th & Bowie,23,30.26217,-97.72743,30.2696,-97.75332
+508,City Hall / Lavaca & 2nd,5th & Bowie,33,30.26476,-97.74678,30.2696,-97.75332
+280,Republic Square @ 5th & Guadalupe,5th & Bowie,55,30.267529999999997,-97.74805,30.2696,-97.75332
+503,3rd & West,5th & Bowie,33,30.2678,-97.75189,30.2696,-97.75332
+400,4th & Congress,5th & Bowie,42,30.266340000000003,-97.74378,30.2696,-97.75332
+119,6th & Congress,5th & Bowie,122,30.26822,-97.74285,30.2696,-97.75332
+311,5th & Bowie,5th & Bowie,52,30.2696,-97.75332,30.2696,-97.75332
+274,Nueces & 3rd,5th & Bowie,56,30.26697,-97.74929,30.2696,-97.75332
+727,East 6th & Pedernales St.,5th & Bowie,23,30.25895,-97.71475,30.2696,-97.75332
+613,21st & Speedway @PCL,East 11th St. & San Marcos,28,30.283,-97.7375,30.269679999999997,-97.73074
+88,San Jacinto & 8th Street,East 11th St. & San Marcos,163,30.26912,-97.73986,30.269679999999997,-97.73074
+374,East 11th St. & San Marcos,East 11th St. & San Marcos,44,30.269679999999997,-97.73074,30.269679999999997,-97.73074
+390,11th & San Jacinto,East 11th St. & San Marcos,43,30.271929999999998,-97.73854,30.269679999999997,-97.73074
+623,21st & Speedway @PCL,State Capitol Visitors Garage @ San Jacinto & 12th,28,30.283,-97.7375,30.273359999999997,-97.73805
+131,State Capitol Visitors Garage @ San Jacinto & 12th,State Capitol Visitors Garage @ San Jacinto & 12th,110,30.273359999999997,-97.73805,30.273359999999997,-97.73805
+784,21st & Speedway @PCL,Rosewood & Angelina,21,30.283,-97.7375,30.26888,-97.72431
+2,Riverside @ S. Lamar,Riverside @ S. Lamar,1263,30.264459999999996,-97.75665,30.264459999999996,-97.75665
+125,Zilker Park,Riverside @ S. Lamar,114,30.2659,-97.76822,30.264459999999996,-97.75665
+73,MoPac Pedestrian Bridge @ Veterans Drive,Riverside @ S. Lamar,217,30.274659999999997,-97.77028,30.264459999999996,-97.75665
+129,Lakeshore @ Austin Hostel,Riverside @ S. Lamar,113,30.24472,-97.72336,30.264459999999996,-97.75665
+120,Rainey St @ Cummings,Riverside @ S. Lamar,121,30.25579,-97.73982,30.264459999999996,-97.75665
+334,Nash Hernandez @ RBJ South,Riverside @ S. Lamar,49,30.251890000000003,-97.73323,30.264459999999996,-97.75665
+217,Barton Springs Pool,Riverside @ S. Lamar,72,30.26452,-97.7712,30.264459999999996,-97.75665
+70,Pfluger Bridge @ W 2nd Street,Riverside @ S. Lamar,234,30.26717,-97.75484,30.264459999999996,-97.75665
+363,Lakeshore & Pleasant Valley,Riverside @ S. Lamar,45,30.24258,-97.71726,30.264459999999996,-97.75665
+295,Palmer Auditorium,Riverside @ S. Lamar,54,30.25971,-97.75346,30.264459999999996,-97.75665
+185,Congress & Cesar Chavez,Riverside @ S. Lamar,83,30.26332,-97.74508,30.264459999999996,-97.75665
+383,South Congress & Barton Springs at the Austin American-Statesman,Riverside @ S. Lamar,44,30.258390000000002,-97.74592,30.264459999999996,-97.75665
+250,Sterzing at Barton Springs,Riverside @ S. Lamar,61,30.264059999999997,-97.76385,30.264459999999996,-97.75665
+168,Long Center @ South 1st & Riverside,Riverside @ S. Lamar,92,30.25941,-97.74971,30.264459999999996,-97.75665
+443,2nd & Congress,Riverside @ S. Lamar,39,30.26408,-97.74355,30.264459999999996,-97.75665
+602,Capitol Station / Congress & 11th,Riverside @ S. Lamar,28,30.2726,-97.74127,30.264459999999996,-97.75665
+197,Boardwalk West,Riverside @ S. Lamar,78,30.25457,-97.74258,30.264459999999996,-97.75665
+362,City Hall / Lavaca & 2nd,Riverside @ S. Lamar,45,30.26476,-97.74678,30.264459999999996,-97.75665
+660,Davis at Rainey Street,Riverside @ S. Lamar,26,30.26019,-97.73845,30.264459999999996,-97.75665
+332,3rd & West,Riverside @ S. Lamar,49,30.2678,-97.75189,30.264459999999996,-97.75665
+484,Convention Center / 3rd & Trinity,Riverside @ S. Lamar,35,30.264259999999997,-97.74023000000001,30.264459999999996,-97.75665
+645,6th & Congress,Riverside @ S. Lamar,27,30.26822,-97.74285,30.264459999999996,-97.75665
+535,5th & Bowie,Riverside @ S. Lamar,32,30.2696,-97.75332,30.264459999999996,-97.75665
+267,Nueces & 3rd,Riverside @ S. Lamar,58,30.26697,-97.74929,30.264459999999996,-97.75665
+669,South Congress & James,Riverside @ S. Lamar,25,30.25103,-97.74925999999999,30.264459999999996,-97.75665
+763,Henderson & 9th,Riverside @ S. Lamar,22,30.272170000000003,-97.75246,30.264459999999996,-97.75665
+701,Hollow Creek & Barton Hills,Riverside @ S. Lamar,24,30.261390000000002,-97.77234,30.264459999999996,-97.75665
+49,Riverside @ S. Lamar,MoPac Pedestrian Bridge @ Veterans Drive,286,30.264459999999996,-97.75665,30.274659999999997,-97.77028
+208,Zilker Park,MoPac Pedestrian Bridge @ Veterans Drive,75,30.2659,-97.76822,30.274659999999997,-97.77028
+6,MoPac Pedestrian Bridge @ Veterans Drive,MoPac Pedestrian Bridge @ Veterans Drive,891,30.274659999999997,-97.77028,30.274659999999997,-97.77028
+418,Lakeshore @ Austin Hostel,MoPac Pedestrian Bridge @ Veterans Drive,40,30.24472,-97.72336,30.274659999999997,-97.77028
+158,Rainey St @ Cummings,MoPac Pedestrian Bridge @ Veterans Drive,96,30.25579,-97.73982,30.274659999999997,-97.77028
+244,Barton Springs Pool,MoPac Pedestrian Bridge @ Veterans Drive,63,30.26452,-97.7712,30.274659999999997,-97.77028
+106,Pfluger Bridge @ W 2nd Street,MoPac Pedestrian Bridge @ Veterans Drive,142,30.26717,-97.75484,30.274659999999997,-97.77028
+297,21st & University,MoPac Pedestrian Bridge @ Veterans Drive,53,30.283540000000002,-97.73953,30.274659999999997,-97.77028
+284,Congress & Cesar Chavez,MoPac Pedestrian Bridge @ Veterans Drive,55,30.26332,-97.74508,30.274659999999997,-97.77028
+349,Sterzing at Barton Springs,MoPac Pedestrian Bridge @ Veterans Drive,46,30.264059999999997,-97.76385,30.274659999999997,-97.77028
+492,Long Center @ South 1st & Riverside,MoPac Pedestrian Bridge @ Veterans Drive,35,30.25941,-97.74971,30.274659999999997,-97.77028
+619,Boardwalk West,MoPac Pedestrian Bridge @ Veterans Drive,28,30.25457,-97.74258,30.274659999999997,-97.77028
+612,City Hall / Lavaca & 2nd,MoPac Pedestrian Bridge @ Veterans Drive,28,30.26476,-97.74678,30.274659999999997,-97.77028
+494,Davis at Rainey Street,MoPac Pedestrian Bridge @ Veterans Drive,34,30.26019,-97.73845,30.274659999999997,-97.77028
+330,3rd & West,MoPac Pedestrian Bridge @ Veterans Drive,49,30.2678,-97.75189,30.274659999999997,-97.77028
+423,Nueces & 3rd,MoPac Pedestrian Bridge @ Veterans Drive,40,30.26697,-97.74929,30.274659999999997,-97.77028
+522,Lake Austin Blvd @ Deep Eddy,MoPac Pedestrian Bridge @ Veterans Drive,32,30.27807,-97.77271999999999,30.274659999999997,-97.77028
+68,Riverside @ S. Lamar,Pfluger Bridge @ W 2nd Street,237,30.264459999999996,-97.75665,30.26717,-97.75484
+201,Zilker Park,Pfluger Bridge @ W 2nd Street,77,30.2659,-97.76822,30.26717,-97.75484
+69,MoPac Pedestrian Bridge @ Veterans Drive,Pfluger Bridge @ W 2nd Street,234,30.274659999999997,-97.77028,30.26717,-97.75484
+193,Rainey St @ Cummings,Pfluger Bridge @ W 2nd Street,80,30.25579,-97.73982,30.26717,-97.75484
+265,Barton Springs Pool,Pfluger Bridge @ W 2nd Street,58,30.26452,-97.7712,30.26717,-97.75484
+28,Pfluger Bridge @ W 2nd Street,Pfluger Bridge @ W 2nd Street,442,30.26717,-97.75484,30.26717,-97.75484
+773,Lakeshore & Pleasant Valley,Pfluger Bridge @ W 2nd Street,21,30.24258,-97.71726,30.26717,-97.75484
+35,Palmer Auditorium,Pfluger Bridge @ W 2nd Street,366,30.25971,-97.75346,30.26717,-97.75484
+427,Congress & Cesar Chavez,Pfluger Bridge @ W 2nd Street,40,30.26332,-97.74508,30.26717,-97.75484
+241,Sterzing at Barton Springs,Pfluger Bridge @ W 2nd Street,64,30.264059999999997,-97.76385,30.26717,-97.75484
+172,Long Center @ South 1st & Riverside,Pfluger Bridge @ W 2nd Street,90,30.25941,-97.74971,30.26717,-97.75484
+725,2nd & Congress,Pfluger Bridge @ W 2nd Street,23,30.26408,-97.74355,30.26717,-97.75484
+407,Boardwalk West,Pfluger Bridge @ W 2nd Street,41,30.25457,-97.74258,30.26717,-97.75484
+419,8th & Congress,Pfluger Bridge @ W 2nd Street,40,30.2698,-97.74186,30.26717,-97.75484
+405,City Hall / Lavaca & 2nd,Pfluger Bridge @ W 2nd Street,41,30.26476,-97.74678,30.26717,-97.75484
+449,3rd & West,Pfluger Bridge @ W 2nd Street,38,30.2678,-97.75189,30.26717,-97.75484
+118,4th & Congress,Pfluger Bridge @ W 2nd Street,125,30.266340000000003,-97.74378,30.26717,-97.75484
+211,6th & Congress,Pfluger Bridge @ W 2nd Street,74,30.26822,-97.74285,30.26717,-97.75484
+515,5th & Bowie,Pfluger Bridge @ W 2nd Street,33,30.2696,-97.75332,30.26717,-97.75484
+696,Nueces & 3rd,Pfluger Bridge @ W 2nd Street,24,30.26697,-97.74929,30.26717,-97.75484
+464,Barton Springs @ Kinney Ave,Pfluger Bridge @ W 2nd Street,37,30.261999999999997,-97.76118000000001,30.26717,-97.75484
+641,Lake Austin Blvd @ Deep Eddy,Pfluger Bridge @ W 2nd Street,27,30.27807,-97.77271999999999,30.26717,-97.75484
+246,Brazos & 6th,Pfluger Bridge @ W 2nd Street,63,30.267540000000004,-97.74154,30.26717,-97.75484
+112,Riverside @ S. Lamar,Zilker Park,135,30.264459999999996,-97.75665,30.2659,-97.76822
+4,Zilker Park,Zilker Park,1051,30.2659,-97.76822,30.2659,-97.76822
+273,MoPac Pedestrian Bridge @ Veterans Drive,Zilker Park,56,30.274659999999997,-97.77028,30.2659,-97.76822
+420,Lakeshore @ Austin Hostel,Zilker Park,40,30.24472,-97.72336,30.2659,-97.76822
+323,Rainey St @ Cummings,Zilker Park,50,30.25579,-97.73982,30.2659,-97.76822
+156,Barton Springs Pool,Zilker Park,97,30.26452,-97.7712,30.2659,-97.76822
+262,Pfluger Bridge @ W 2nd Street,Zilker Park,59,30.26717,-97.75484,30.2659,-97.76822
+277,Palmer Auditorium,Zilker Park,55,30.25971,-97.75346,30.2659,-97.76822
+248,Congress & Cesar Chavez,Zilker Park,62,30.26332,-97.74508,30.2659,-97.76822
+439,South Congress & Barton Springs at the Austin American-Statesman,Zilker Park,39,30.258390000000002,-97.74592,30.2659,-97.76822
+174,Sterzing at Barton Springs,Zilker Park,90,30.264059999999997,-97.76385,30.2659,-97.76822
+324,Long Center @ South 1st & Riverside,Zilker Park,50,30.25941,-97.74971,30.2659,-97.76822
+624,2nd & Congress,Zilker Park,28,30.26408,-97.74355,30.2659,-97.76822
+451,Boardwalk West,Zilker Park,38,30.25457,-97.74258,30.2659,-97.76822
+502,City Hall / Lavaca & 2nd,Zilker Park,33,30.26476,-97.74678,30.2659,-97.76822
+664,Red River/Cesar Chavez @ The Fairmont,Zilker Park,25,30.26212,-97.73815,30.2659,-97.76822
+359,Barton Springs @ Kinney Ave,Zilker Park,45,30.261999999999997,-97.76118000000001,30.2659,-97.76822
+653,South Congress & James,Zilker Park,26,30.25103,-97.74925999999999,30.2659,-97.76822
+788,South Congress & Academy,Zilker Park,21,30.252259999999996,-97.74854,30.2659,-97.76822
+126,Riverside @ S. Lamar,Rainey St @ Cummings,114,30.264459999999996,-97.75665,30.25579,-97.73982
+253,Zilker Park,Rainey St @ Cummings,60,30.2659,-97.76822,30.25579,-97.73982
+133,MoPac Pedestrian Bridge @ Veterans Drive,Rainey St @ Cummings,108,30.274659999999997,-97.77028,30.25579,-97.73982
+142,Lakeshore @ Austin Hostel,Rainey St @ Cummings,103,30.24472,-97.72336,30.25579,-97.73982
+13,Rainey St @ Cummings,Rainey St @ Cummings,792,30.25579,-97.73982,30.25579,-97.73982
+127,Nash Hernandez @ RBJ South,Rainey St @ Cummings,114,30.251890000000003,-97.73323,30.25579,-97.73982
+442,Barton Springs Pool,Rainey St @ Cummings,39,30.26452,-97.7712,30.25579,-97.73982
+240,Pfluger Bridge @ W 2nd Street,Rainey St @ Cummings,64,30.26717,-97.75484,30.25579,-97.73982
+409,Lakeshore & Pleasant Valley,Rainey St @ Cummings,41,30.24258,-97.71726,30.25579,-97.73982
+791,Palmer Auditorium,Rainey St @ Cummings,21,30.25971,-97.75346,30.25579,-97.73982
+181,Congress & Cesar Chavez,Rainey St @ Cummings,83,30.26332,-97.74508,30.25579,-97.73982
+406,South Congress & Barton Springs at the Austin American-Statesman,Rainey St @ Cummings,41,30.258390000000002,-97.74592,30.25579,-97.73982
+467,Sterzing at Barton Springs,Rainey St @ Cummings,37,30.264059999999997,-97.76385,30.25579,-97.73982
+576,Long Center @ South 1st & Riverside,Rainey St @ Cummings,29,30.25941,-97.74971,30.25579,-97.73982
+268,2nd & Congress,Rainey St @ Cummings,58,30.26408,-97.74355,30.25579,-97.73982
+229,Boardwalk West,Rainey St @ Cummings,67,30.25457,-97.74258,30.25579,-97.73982
+608,Plaza Saltillo,Rainey St @ Cummings,28,30.26217,-97.72743,30.25579,-97.73982
+184,City Hall / Lavaca & 2nd,Rainey St @ Cummings,83,30.26476,-97.74678,30.25579,-97.73982
+157,Davis at Rainey Street,Rainey St @ Cummings,96,30.26019,-97.73845,30.25579,-97.73982
+116,3rd & West,Rainey St @ Cummings,129,30.2678,-97.75189,30.25579,-97.73982
+153,Convention Center / 3rd & Trinity,Rainey St @ Cummings,100,30.264259999999997,-97.74023000000001,30.25579,-97.73982
+470,Red River/Cesar Chavez @ The Fairmont,Rainey St @ Cummings,36,30.26212,-97.73815,30.25579,-97.73982
+635,6th & Congress,Rainey St @ Cummings,27,30.26822,-97.74285,30.25579,-97.73982
+568,5th & Bowie,Rainey St @ Cummings,30,30.2696,-97.75332,30.25579,-97.73982
+479,Nueces & 3rd,Rainey St @ Cummings,35,30.26697,-97.74929,30.25579,-97.73982
+761,Barton Springs @ Kinney Ave,Rainey St @ Cummings,22,30.261999999999997,-97.76118000000001,30.25579,-97.73982
+799,East 2nd & Pedernales,Rainey St @ Cummings,21,30.25542,-97.71665,30.25579,-97.73982
+685,Medina & East 6th,Rainey St @ Cummings,25,30.26455,-97.73165,30.25579,-97.73982
+151,Riverside @ S. Lamar,Boardwalk West,100,30.264459999999996,-97.75665,30.25457,-97.74258
+755,Zilker Park,Boardwalk West,22,30.2659,-97.76822,30.25457,-97.74258
+387,MoPac Pedestrian Bridge @ Veterans Drive,Boardwalk West,43,30.274659999999997,-97.77028,30.25457,-97.74258
+149,Lakeshore @ Austin Hostel,Boardwalk West,102,30.24472,-97.72336,30.25457,-97.74258
+209,Rainey St @ Cummings,Boardwalk West,74,30.25579,-97.73982,30.25457,-97.74258
+266,Pfluger Bridge @ W 2nd Street,Boardwalk West,58,30.26717,-97.75484,30.25457,-97.74258
+256,Lakeshore & Pleasant Valley,Boardwalk West,60,30.24258,-97.71726,30.25457,-97.74258
+708,Palmer Auditorium,Boardwalk West,24,30.25971,-97.75346,30.25457,-97.74258
+735,Congress & Cesar Chavez,Boardwalk West,22,30.26332,-97.74508,30.25457,-97.74258
+468,South Congress & Barton Springs at the Austin American-Statesman,Boardwalk West,36,30.258390000000002,-97.74592,30.25457,-97.74258
+594,Sterzing at Barton Springs,Boardwalk West,29,30.264059999999997,-97.76385,30.25457,-97.74258
+278,Long Center @ South 1st & Riverside,Boardwalk West,55,30.25941,-97.74971,30.25457,-97.74258
+67,Boardwalk West,Boardwalk West,239,30.25457,-97.74258,30.25457,-97.74258
+706,San Jacinto & 8th Street,Boardwalk West,24,30.26912,-97.73986,30.25457,-97.74258
+781,Davis at Rainey Street,Boardwalk West,21,30.26019,-97.73845,30.25457,-97.74258
+154,Riverside @ S. Lamar,Long Center @ South 1st & Riverside,99,30.264459999999996,-97.75665,30.25941,-97.74971
+380,Zilker Park,Long Center @ South 1st & Riverside,44,30.2659,-97.76822,30.25941,-97.74971
+520,MoPac Pedestrian Bridge @ Veterans Drive,Long Center @ South 1st & Riverside,32,30.274659999999997,-97.77028,30.25941,-97.74971
+507,Rainey St @ Cummings,Long Center @ South 1st & Riverside,33,30.25579,-97.73982,30.25941,-97.74971
+327,Pfluger Bridge @ W 2nd Street,Long Center @ South 1st & Riverside,49,30.26717,-97.75484,30.25941,-97.74971
+313,Palmer Auditorium,Long Center @ South 1st & Riverside,51,30.25971,-97.75346,30.25941,-97.74971
+410,Congress & Cesar Chavez,Long Center @ South 1st & Riverside,41,30.26332,-97.74508,30.25941,-97.74971
+740,South Congress & Barton Springs at the Austin American-Statesman,Long Center @ South 1st & Riverside,22,30.258390000000002,-97.74592,30.25941,-97.74971
+695,Sterzing at Barton Springs,Long Center @ South 1st & Riverside,24,30.264059999999997,-97.76385,30.25941,-97.74971
+50,Long Center @ South 1st & Riverside,Long Center @ South 1st & Riverside,286,30.25941,-97.74971,30.25941,-97.74971
+609,2nd & Congress,Long Center @ South 1st & Riverside,28,30.26408,-97.74355,30.25941,-97.74971
+562,Capitol Station / Congress & 11th,Long Center @ South 1st & Riverside,30,30.2726,-97.74127,30.25941,-97.74971
+331,Boardwalk West,Long Center @ South 1st & Riverside,49,30.25457,-97.74258,30.25941,-97.74971
+192,City Hall / Lavaca & 2nd,Long Center @ South 1st & Riverside,80,30.26476,-97.74678,30.25941,-97.74971
+93,Republic Square @ 5th & Guadalupe,Long Center @ South 1st & Riverside,158,30.267529999999997,-97.74805,30.25941,-97.74971
+787,Davis at Rainey Street,Long Center @ South 1st & Riverside,21,30.26019,-97.73845,30.25941,-97.74971
+213,3rd & West,Long Center @ South 1st & Riverside,73,30.2678,-97.75189,30.25941,-97.74971
+632,Convention Center / 3rd & Trinity,Long Center @ South 1st & Riverside,27,30.264259999999997,-97.74023000000001,30.25941,-97.74971
+563,6th & Congress,Long Center @ South 1st & Riverside,30,30.26822,-97.74285,30.25941,-97.74971
+308,Convention Center / 4th St. @ MetroRail,Long Center @ South 1st & Riverside,53,30.26483,-97.73899999999999,30.25941,-97.74971
+611,East 6th at Robert Martinez,Long Center @ South 1st & Riverside,28,30.26032,-97.71899,30.25941,-97.74971
+163,Riverside @ S. Lamar,Lakeshore @ Austin Hostel,94,30.264459999999996,-97.75665,30.24472,-97.72336
+621,Zilker Park,Lakeshore @ Austin Hostel,28,30.2659,-97.76822,30.24472,-97.72336
+477,MoPac Pedestrian Bridge @ Veterans Drive,Lakeshore @ Austin Hostel,35,30.274659999999997,-97.77028,30.24472,-97.72336
+7,Lakeshore @ Austin Hostel,Lakeshore @ Austin Hostel,890,30.24472,-97.72336,30.24472,-97.72336
+170,Rainey St @ Cummings,Lakeshore @ Austin Hostel,91,30.25579,-97.73982,30.24472,-97.72336
+757,Nash Hernandez @ RBJ South,Lakeshore @ Austin Hostel,22,30.251890000000003,-97.73323,30.24472,-97.72336
+578,Pfluger Bridge @ W 2nd Street,Lakeshore @ Austin Hostel,29,30.26717,-97.75484,30.24472,-97.72336
+110,Lakeshore & Pleasant Valley,Lakeshore @ Austin Hostel,138,30.24258,-97.71726,30.24472,-97.72336
+737,Palmer Auditorium,Lakeshore @ Austin Hostel,22,30.25971,-97.75346,30.24472,-97.72336
+617,Congress & Cesar Chavez,Lakeshore @ Austin Hostel,28,30.26332,-97.74508,30.24472,-97.72336
+319,South Congress & Barton Springs at the Austin American-Statesman,Lakeshore @ Austin Hostel,50,30.258390000000002,-97.74592,30.24472,-97.72336
+130,Boardwalk West,Lakeshore @ Austin Hostel,111,30.25457,-97.74258,30.24472,-97.72336
+566,City Hall / Lavaca & 2nd,Lakeshore @ Austin Hostel,30,30.26476,-97.74678,30.24472,-97.72336
+465,Davis at Rainey Street,Lakeshore @ Austin Hostel,37,30.26019,-97.73845,30.24472,-97.72336
+176,Riverside @ S. Lamar,Sterzing at Barton Springs,87,30.264459999999996,-97.75665,30.264059999999997,-97.76385
+150,Zilker Park,Sterzing at Barton Springs,101,30.2659,-97.76822,30.264059999999997,-97.76385
+549,MoPac Pedestrian Bridge @ Veterans Drive,Sterzing at Barton Springs,31,30.274659999999997,-97.77028,30.264059999999997,-97.76385
+548,Lakeshore @ Austin Hostel,Sterzing at Barton Springs,31,30.24472,-97.72336,30.264059999999997,-97.76385
+432,Rainey St @ Cummings,Sterzing at Barton Springs,39,30.25579,-97.73982,30.264059999999997,-97.76385
+245,Barton Springs Pool,Sterzing at Barton Springs,63,30.26452,-97.7712,30.264059999999997,-97.76385
+261,Pfluger Bridge @ W 2nd Street,Sterzing at Barton Springs,59,30.26717,-97.75484,30.264059999999997,-97.76385
+454,Palmer Auditorium,Sterzing at Barton Springs,38,30.25971,-97.75346,30.264059999999997,-97.76385
+509,Congress & Cesar Chavez,Sterzing at Barton Springs,33,30.26332,-97.74508,30.264059999999997,-97.76385
+797,South Congress & Barton Springs at the Austin American-Statesman,Sterzing at Barton Springs,21,30.258390000000002,-97.74592,30.264059999999997,-97.76385
+47,Sterzing at Barton Springs,Sterzing at Barton Springs,299,30.264059999999997,-97.76385,30.264059999999997,-97.76385
+471,Long Center @ South 1st & Riverside,Sterzing at Barton Springs,36,30.25941,-97.74971,30.264059999999997,-97.76385
+659,2nd & Congress,Sterzing at Barton Springs,26,30.26408,-97.74355,30.264059999999997,-97.76385
+674,3rd & West,Sterzing at Barton Springs,25,30.2678,-97.75189,30.264059999999997,-97.76385
+663,5th & Bowie,Sterzing at Barton Springs,25,30.2696,-97.75332,30.264059999999997,-97.76385
+368,Barton Springs @ Kinney Ave,Sterzing at Barton Springs,45,30.261999999999997,-97.76118000000001,30.264059999999997,-97.76385
+347,Hollow Creek & Barton Hills,Sterzing at Barton Springs,47,30.261390000000002,-97.77234,30.264059999999997,-97.76385
+212,Riverside @ S. Lamar,Barton Springs Pool,74,30.264459999999996,-97.75665,30.26452,-97.7712
+141,Zilker Park,Barton Springs Pool,104,30.2659,-97.76822,30.26452,-97.7712
+326,MoPac Pedestrian Bridge @ Veterans Drive,Barton Springs Pool,49,30.274659999999997,-97.77028,30.26452,-97.7712
+453,Rainey St @ Cummings,Barton Springs Pool,38,30.25579,-97.73982,30.26452,-97.7712
+26,Barton Springs Pool,Barton Springs Pool,470,30.26452,-97.7712,30.26452,-97.7712
+336,Pfluger Bridge @ W 2nd Street,Barton Springs Pool,49,30.26717,-97.75484,30.26452,-97.7712
+371,Palmer Auditorium,Barton Springs Pool,44,30.25971,-97.75346,30.26452,-97.7712
+595,Congress & Cesar Chavez,Barton Springs Pool,29,30.26332,-97.74508,30.26452,-97.7712
+777,South Congress & Barton Springs at the Austin American-Statesman,Barton Springs Pool,21,30.258390000000002,-97.74592,30.26452,-97.7712
+335,Sterzing at Barton Springs,Barton Springs Pool,49,30.264059999999997,-97.76385,30.26452,-97.7712
+504,Long Center @ South 1st & Riverside,Barton Springs Pool,33,30.25941,-97.74971,30.26452,-97.7712
+521,2nd & Congress,Barton Springs Pool,32,30.26408,-97.74355,30.26452,-97.7712
+434,City Hall / Lavaca & 2nd,Barton Springs Pool,39,30.26476,-97.74678,30.26452,-97.7712
+618,Davis at Rainey Street,Barton Springs Pool,28,30.26019,-97.73845,30.26452,-97.7712
+506,3rd & West,Barton Springs Pool,33,30.2678,-97.75189,30.26452,-97.7712
+752,South Congress & Elizabeth,Barton Springs Pool,22,30.24891,-97.75019,30.26452,-97.7712
+445,Barton Springs @ Kinney Ave,Barton Springs Pool,38,30.261999999999997,-97.76118000000001,30.26452,-97.7712
+675,South Congress & James,Barton Springs Pool,25,30.25103,-97.74925999999999,30.26452,-97.7712
+219,Riverside @ S. Lamar,Congress & Cesar Chavez,71,30.264459999999996,-97.75665,30.26332,-97.74508
+243,Zilker Park,Congress & Cesar Chavez,64,30.2659,-97.76822,30.26332,-97.74508
+198,MoPac Pedestrian Bridge @ Veterans Drive,Congress & Cesar Chavez,78,30.274659999999997,-97.77028,30.26332,-97.74508
+488,Lakeshore @ Austin Hostel,Congress & Cesar Chavez,35,30.24472,-97.72336,30.26332,-97.74508
+113,Rainey St @ Cummings,Congress & Cesar Chavez,134,30.25579,-97.73982,30.26332,-97.74508
+693,Nash Hernandez @ RBJ South,Congress & Cesar Chavez,24,30.251890000000003,-97.73323,30.26332,-97.74508
+628,Barton Springs Pool,Congress & Cesar Chavez,27,30.26452,-97.7712,30.26332,-97.74508
+496,Pfluger Bridge @ W 2nd Street,Congress & Cesar Chavez,34,30.26717,-97.75484,30.26332,-97.74508
+534,Palmer Auditorium,Congress & Cesar Chavez,32,30.25971,-97.75346,30.26332,-97.74508
+41,Congress & Cesar Chavez,Congress & Cesar Chavez,316,30.26332,-97.74508,30.26332,-97.74508
+530,South Congress & Barton Springs at the Austin American-Statesman,Congress & Cesar Chavez,32,30.258390000000002,-97.74592,30.26332,-97.74508
+800,Sterzing at Barton Springs,Congress & Cesar Chavez,21,30.264059999999997,-97.76385,30.26332,-97.74508
+643,Long Center @ South 1st & Riverside,Congress & Cesar Chavez,27,30.25941,-97.74971,30.26332,-97.74508
+381,2nd & Congress,Congress & Cesar Chavez,44,30.26408,-97.74355,30.26332,-97.74508
+352,Capitol Station / Congress & 11th,Congress & Cesar Chavez,46,30.2726,-97.74127,30.26332,-97.74508
+747,City Hall / Lavaca & 2nd,Congress & Cesar Chavez,22,30.26476,-97.74678,30.26332,-97.74508
+637,Davis at Rainey Street,Congress & Cesar Chavez,27,30.26019,-97.73845,30.26332,-97.74508
+684,Red River/Cesar Chavez @ The Fairmont,Congress & Cesar Chavez,25,30.26212,-97.73815,30.26332,-97.74508
+705,South Congress & James,Congress & Cesar Chavez,24,30.25103,-97.74925999999999,30.26332,-97.74508
+207,South Congress & Academy,Congress & Cesar Chavez,75,30.252259999999996,-97.74854,30.26332,-97.74508
+223,Riverside @ S. Lamar,City Hall / Lavaca & 2nd,68,30.264459999999996,-97.75665,30.26476,-97.74678
+501,Zilker Park,City Hall / Lavaca & 2nd,33,30.2659,-97.76822,30.26476,-97.74678
+596,MoPac Pedestrian Bridge @ Veterans Drive,City Hall / Lavaca & 2nd,29,30.274659999999997,-97.77028,30.26476,-97.74678
+132,Rainey St @ Cummings,City Hall / Lavaca & 2nd,109,30.25579,-97.73982,30.26476,-97.74678
+517,Barton Springs Pool,City Hall / Lavaca & 2nd,32,30.26452,-97.7712,30.26476,-97.74678
+415,Pfluger Bridge @ W 2nd Street,City Hall / Lavaca & 2nd,40,30.26717,-97.75484,30.26476,-97.74678
+275,Palmer Auditorium,City Hall / Lavaca & 2nd,56,30.25971,-97.75346,30.26476,-97.74678
+671,Sterzing at Barton Springs,City Hall / Lavaca & 2nd,25,30.264059999999997,-97.76385,30.26476,-97.74678
+210,Long Center @ South 1st & Riverside,City Hall / Lavaca & 2nd,74,30.25941,-97.74971,30.26476,-97.74678
+476,2nd & Congress,City Hall / Lavaca & 2nd,35,30.26408,-97.74355,30.26476,-97.74678
+630,Capitol Station / Congress & 11th,City Hall / Lavaca & 2nd,27,30.2726,-97.74127,30.26476,-97.74678
+715,Boardwalk West,City Hall / Lavaca & 2nd,23,30.25457,-97.74258,30.26476,-97.74678
+433,8th & Congress,City Hall / Lavaca & 2nd,39,30.2698,-97.74186,30.26476,-97.74678
+83,City Hall / Lavaca & 2nd,City Hall / Lavaca & 2nd,175,30.26476,-97.74678,30.26476,-97.74678
+290,Davis at Rainey Street,City Hall / Lavaca & 2nd,54,30.26019,-97.73845,30.26476,-97.74678
+177,3rd & West,City Hall / Lavaca & 2nd,85,30.2678,-97.75189,30.26476,-97.74678
+403,5th & Bowie,City Hall / Lavaca & 2nd,42,30.2696,-97.75332,30.26476,-97.74678
+533,South Congress & Elizabeth,City Hall / Lavaca & 2nd,32,30.24891,-97.75019,30.26476,-97.74678
+448,Nueces & 3rd,City Hall / Lavaca & 2nd,38,30.26697,-97.74929,30.26476,-97.74678
+475,17th & Guadalupe,City Hall / Lavaca & 2nd,35,30.279740000000004,-97.74254,30.26476,-97.74678
+734,Henderson & 9th,City Hall / Lavaca & 2nd,23,30.272170000000003,-97.75246,30.26476,-97.74678
+430,Brazos & 6th,City Hall / Lavaca & 2nd,40,30.267540000000004,-97.74154,30.26476,-97.74678
+794,Convention Center / 4th St. @ MetroRail,City Hall / Lavaca & 2nd,21,30.26483,-97.73899999999999,30.26476,-97.74678
+279,Riverside @ S. Lamar,South Congress & Barton Springs at the Austin American-Statesman,55,30.264459999999996,-97.75665,30.258390000000002,-97.74592
+322,Zilker Park,South Congress & Barton Springs at the Austin American-Statesman,50,30.2659,-97.76822,30.258390000000002,-97.74592
+770,MoPac Pedestrian Bridge @ Veterans Drive,South Congress & Barton Springs at the Austin American-Statesman,21,30.274659999999997,-97.77028,30.258390000000002,-97.74592
+270,Lakeshore @ Austin Hostel,South Congress & Barton Springs at the Austin American-Statesman,57,30.24472,-97.72336,30.258390000000002,-97.74592
+195,Rainey St @ Cummings,South Congress & Barton Springs at the Austin American-Statesman,80,30.25579,-97.73982,30.258390000000002,-97.74592
+478,Barton Springs Pool,South Congress & Barton Springs at the Austin American-Statesman,35,30.26452,-97.7712,30.258390000000002,-97.74592
+394,Lakeshore & Pleasant Valley,South Congress & Barton Springs at the Austin American-Statesman,42,30.24258,-97.71726,30.258390000000002,-97.74592
+384,Palmer Auditorium,South Congress & Barton Springs at the Austin American-Statesman,43,30.25971,-97.75346,30.258390000000002,-97.74592
+287,Congress & Cesar Chavez,South Congress & Barton Springs at the Austin American-Statesman,54,30.26332,-97.74508,30.258390000000002,-97.74592
+45,South Congress & Barton Springs at the Austin American-Statesman,South Congress & Barton Springs at the Austin American-Statesman,305,30.258390000000002,-97.74592,30.258390000000002,-97.74592
+466,Sterzing at Barton Springs,South Congress & Barton Springs at the Austin American-Statesman,37,30.264059999999997,-97.76385,30.258390000000002,-97.74592
+117,2nd & Congress,South Congress & Barton Springs at the Austin American-Statesman,128,30.26408,-97.74355,30.258390000000002,-97.74592
+447,Capitol Station / Congress & 11th,South Congress & Barton Springs at the Austin American-Statesman,38,30.2726,-97.74127,30.258390000000002,-97.74592
+401,Boardwalk West,South Congress & Barton Springs at the Austin American-Statesman,42,30.25457,-97.74258,30.258390000000002,-97.74592
+546,Davis at Rainey Street,South Congress & Barton Springs at the Austin American-Statesman,31,30.26019,-97.73845,30.258390000000002,-97.74592
+369,South Congress & Elizabeth,South Congress & Barton Springs at the Austin American-Statesman,45,30.24891,-97.75019,30.258390000000002,-97.74592
+344,South Congress & James,South Congress & Barton Springs at the Austin American-Statesman,47,30.25103,-97.74925999999999,30.258390000000002,-97.74592
+531,South Congress & Academy,South Congress & Barton Springs at the Austin American-Statesman,32,30.252259999999996,-97.74854,30.258390000000002,-97.74592
+704,Brazos & 6th,South Congress & Barton Springs at the Austin American-Statesman,24,30.267540000000004,-97.74154,30.258390000000002,-97.74592
+489,South Congress @ Bouldin Creek,South Congress & Barton Springs at the Austin American-Statesman,35,30.25495,-97.74755,30.258390000000002,-97.74592
+312,Riverside @ S. Lamar,Lakeshore & Pleasant Valley,51,30.264459999999996,-97.75665,30.24258,-97.71726
+124,Lakeshore @ Austin Hostel,Lakeshore & Pleasant Valley,114,30.24472,-97.72336,30.24258,-97.71726
+469,Rainey St @ Cummings,Lakeshore & Pleasant Valley,36,30.25579,-97.73982,30.24258,-97.71726
+642,Pfluger Bridge @ W 2nd Street,Lakeshore & Pleasant Valley,27,30.26717,-97.75484,30.24258,-97.71726
+32,Lakeshore & Pleasant Valley,Lakeshore & Pleasant Valley,401,30.24258,-97.71726,30.24258,-97.71726
+634,South Congress & Barton Springs at the Austin American-Statesman,Lakeshore & Pleasant Valley,27,30.258390000000002,-97.74592,30.24258,-97.71726
+255,Boardwalk West,Lakeshore & Pleasant Valley,60,30.25457,-97.74258,30.24258,-97.71726
+377,Riverside @ S. Lamar,Palmer Auditorium,44,30.264459999999996,-97.75665,30.25971,-97.75346
+310,Zilker Park,Palmer Auditorium,52,30.2659,-97.76822,30.25971,-97.75346
+633,MoPac Pedestrian Bridge @ Veterans Drive,Palmer Auditorium,27,30.274659999999997,-97.77028,30.25971,-97.75346
+382,Barton Springs Pool,Palmer Auditorium,44,30.26452,-97.7712,30.25971,-97.75346
+82,Pfluger Bridge @ W 2nd Street,Palmer Auditorium,176,30.26717,-97.75484,30.25971,-97.75346
+72,Palmer Auditorium,Palmer Auditorium,223,30.25971,-97.75346,30.25971,-97.75346
+289,Congress & Cesar Chavez,Palmer Auditorium,54,30.26332,-97.74508,30.25971,-97.75346
+676,Sterzing at Barton Springs,Palmer Auditorium,25,30.264059999999997,-97.76385,30.25971,-97.75346
+493,Long Center @ South 1st & Riverside,Palmer Auditorium,34,30.25941,-97.74971,30.25971,-97.75346
+749,2nd & Congress,Palmer Auditorium,22,30.26408,-97.74355,30.25971,-97.75346
+235,City Hall / Lavaca & 2nd,Palmer Auditorium,66,30.26476,-97.74678,30.25971,-97.75346
+450,Republic Square @ 5th & Guadalupe,Palmer Auditorium,38,30.267529999999997,-97.74805,30.25971,-97.75346
+175,3rd & West,Palmer Auditorium,87,30.2678,-97.75189,30.25971,-97.75346
+525,Convention Center / 3rd & Trinity,Palmer Auditorium,32,30.264259999999997,-97.74023000000001,30.25971,-97.75346
+765,6th & Congress,Palmer Auditorium,22,30.26822,-97.74285,30.25971,-97.75346
+121,5th & Bowie,Palmer Auditorium,118,30.2696,-97.75332,30.25971,-97.75346
+552,Barton Springs @ Kinney Ave,Palmer Auditorium,31,30.261999999999997,-97.76118000000001,30.25971,-97.75346
+307,Hollow Creek & Barton Hills,Palmer Auditorium,53,30.261390000000002,-97.77234,30.25971,-97.75346
+286,East 6th & Pedernales St.,Palmer Auditorium,54,30.25895,-97.71475,30.25971,-97.75346
+718,Convention Center / 4th St. @ MetroRail,Palmer Auditorium,23,30.26483,-97.73899999999999,30.25971,-97.75346
+480,Riverside @ S. Lamar,Nash Hernandez @ RBJ South,35,30.264459999999996,-97.75665,30.251890000000003,-97.73323
+375,Lakeshore @ Austin Hostel,Nash Hernandez @ RBJ South,44,30.24472,-97.72336,30.251890000000003,-97.73323
+216,Rainey St @ Cummings,Nash Hernandez @ RBJ South,72,30.25579,-97.73982,30.251890000000003,-97.73323
+22,Nash Hernandez @ RBJ South,Nash Hernandez @ RBJ South,516,30.251890000000003,-97.73323,30.251890000000003,-97.73323
+647,Congress & Cesar Chavez,Nash Hernandez @ RBJ South,26,30.26332,-97.74508,30.251890000000003,-97.73323
+652,Boardwalk West,Nash Hernandez @ RBJ South,26,30.25457,-97.74258,30.251890000000003,-97.73323
+346,East 4th & Chicon,Nash Hernandez @ RBJ South,47,30.259870000000003,-97.72373,30.251890000000003,-97.73323
+486,Riverside @ S. Lamar,Henderson & 9th,35,30.264459999999996,-97.75665,30.272170000000003,-97.75246
+679,Guadalupe & 21st,Henderson & 9th,25,30.28395,-97.74198,30.272170000000003,-97.75246
+745,Sterzing at Barton Springs,Henderson & 9th,22,30.264059999999997,-97.76385,30.272170000000003,-97.75246
+712,City Hall / Lavaca & 2nd,Henderson & 9th,23,30.26476,-97.74678,30.272170000000003,-97.75246
+491,3rd & West,Henderson & 9th,35,30.2678,-97.75189,30.272170000000003,-97.75246
+222,Henderson & 9th,Henderson & 9th,69,30.272170000000003,-97.75246,30.272170000000003,-97.75246
+510,Riverside @ S. Lamar,Convention Center / 3rd & Trinity,33,30.264459999999996,-97.75665,30.264259999999997,-97.74023000000001
+751,Zilker Park,Convention Center / 3rd & Trinity,22,30.2659,-97.76822,30.264259999999997,-97.74023000000001
+159,Rainey St @ Cummings,Convention Center / 3rd & Trinity,95,30.25579,-97.73982,30.264259999999997,-97.74023000000001
+366,Pfluger Bridge @ W 2nd Street,Convention Center / 3rd & Trinity,45,30.26717,-97.75484,30.264259999999997,-97.74023000000001
+357,Palmer Auditorium,Convention Center / 3rd & Trinity,46,30.25971,-97.75346,30.264259999999997,-97.74023000000001
+658,South Congress & Barton Springs at the Austin American-Statesman,Convention Center / 3rd & Trinity,26,30.258390000000002,-97.74592,30.264259999999997,-97.74023000000001
+586,Long Center @ South 1st & Riverside,Convention Center / 3rd & Trinity,29,30.25941,-97.74971,30.264259999999997,-97.74023000000001
+413,2nd & Congress,Convention Center / 3rd & Trinity,41,30.26408,-97.74355,30.264259999999997,-97.74023000000001
+582,Plaza Saltillo,Convention Center / 3rd & Trinity,29,30.26217,-97.72743,30.264259999999997,-97.74023000000001
+455,City Hall / Lavaca & 2nd,Convention Center / 3rd & Trinity,38,30.26476,-97.74678,30.264259999999997,-97.74023000000001
+460,Davis at Rainey Street,Convention Center / 3rd & Trinity,37,30.26019,-97.73845,30.264259999999997,-97.74023000000001
+272,3rd & West,Convention Center / 3rd & Trinity,57,30.2678,-97.75189,30.264259999999997,-97.74023000000001
+102,Convention Center / 3rd & Trinity,Convention Center / 3rd & Trinity,148,30.264259999999997,-97.74023000000001,30.264259999999997,-97.74023000000001
+646,Red River/Cesar Chavez @ The Fairmont,Convention Center / 3rd & Trinity,26,30.26212,-97.73815,30.264259999999997,-97.74023000000001
+574,5th & Bowie,Convention Center / 3rd & Trinity,29,30.2696,-97.75332,30.264259999999997,-97.74023000000001
+242,Nueces & 3rd,Convention Center / 3rd & Trinity,64,30.26697,-97.74929,30.264259999999997,-97.74023000000001
+786,Red River & 8th Street,Convention Center / 3rd & Trinity,21,30.26854,-97.73646,30.264259999999997,-97.74023000000001
+661,Barton Springs @ Kinney Ave,Convention Center / 3rd & Trinity,26,30.261999999999997,-97.76118000000001,30.264259999999997,-97.74023000000001
+687,South Congress & James,Convention Center / 3rd & Trinity,25,30.25103,-97.74925999999999,30.264259999999997,-97.74023000000001
+588,Riverside @ S. Lamar,Davis at Rainey Street,29,30.264459999999996,-97.75665,30.26019,-97.73845
+417,Zilker Park,Davis at Rainey Street,40,30.2659,-97.76822,30.26019,-97.73845
+527,Lakeshore @ Austin Hostel,Davis at Rainey Street,32,30.24472,-97.72336,30.26019,-97.73845
+227,Rainey St @ Cummings,Davis at Rainey Street,67,30.25579,-97.73982,30.26019,-97.73845
+605,Barton Springs Pool,Davis at Rainey Street,28,30.26452,-97.7712,30.26019,-97.73845
+495,Pfluger Bridge @ W 2nd Street,Davis at Rainey Street,34,30.26717,-97.75484,30.26019,-97.73845
+716,Congress & Cesar Chavez,Davis at Rainey Street,23,30.26332,-97.74508,30.26019,-97.73845
+378,South Congress & Barton Springs at the Austin American-Statesman,Davis at Rainey Street,44,30.258390000000002,-97.74592,30.26019,-97.73845
+318,2nd & Congress,Davis at Rainey Street,50,30.26408,-97.74355,30.26019,-97.73845
+741,Boardwalk West,Davis at Rainey Street,22,30.25457,-97.74258,30.26019,-97.73845
+226,City Hall / Lavaca & 2nd,Davis at Rainey Street,68,30.26476,-97.74678,30.26019,-97.73845
+94,Davis at Rainey Street,Davis at Rainey Street,154,30.26019,-97.73845,30.26019,-97.73845
+603,3rd & West,Davis at Rainey Street,28,30.2678,-97.75189,30.26019,-97.73845
+370,Convention Center / 3rd & Trinity,Davis at Rainey Street,45,30.264259999999997,-97.74023000000001,30.26019,-97.73845
+702,4th & Congress,Davis at Rainey Street,24,30.266340000000003,-97.74378,30.26019,-97.73845
+386,Nueces & 3rd,Davis at Rainey Street,43,30.26697,-97.74929,30.26019,-97.73845
+333,Red River & 8th Street,Davis at Rainey Street,49,30.26854,-97.73646,30.26019,-97.73845
+673,South Congress & James,Davis at Rainey Street,25,30.25103,-97.74925999999999,30.26019,-97.73845
+414,Brazos & 6th,Davis at Rainey Street,41,30.267540000000004,-97.74154,30.26019,-97.73845
+785,South Congress @ Bouldin Creek,Davis at Rainey Street,21,30.25495,-97.74755,30.26019,-97.73845
+728,Trinity & 6th Street,Davis at Rainey Street,23,30.26735,-97.73933000000001,30.26019,-97.73845
+556,Convention Center / 4th St. @ MetroRail,Davis at Rainey Street,30,30.26483,-97.73899999999999,30.26019,-97.73845
+601,Riverside @ S. Lamar,Barton Springs @ Kinney Ave,28,30.264459999999996,-97.75665,30.261999999999997,-97.76118000000001
+187,Zilker Park,Barton Springs @ Kinney Ave,82,30.2659,-97.76822,30.261999999999997,-97.76118000000001
+793,MoPac Pedestrian Bridge @ Veterans Drive,Barton Springs @ Kinney Ave,21,30.274659999999997,-97.77028,30.261999999999997,-97.76118000000001
+379,Barton Springs Pool,Barton Springs @ Kinney Ave,44,30.26452,-97.7712,30.261999999999997,-97.76118000000001
+351,Pfluger Bridge @ W 2nd Street,Barton Springs @ Kinney Ave,46,30.26717,-97.75484,30.261999999999997,-97.76118000000001
+338,Palmer Auditorium,Barton Springs @ Kinney Ave,48,30.25971,-97.75346,30.261999999999997,-97.76118000000001
+422,Sterzing at Barton Springs,Barton Springs @ Kinney Ave,40,30.264059999999997,-97.76385,30.261999999999997,-97.76118000000001
+529,Long Center @ South 1st & Riverside,Barton Springs @ Kinney Ave,32,30.25941,-97.74971,30.261999999999997,-97.76118000000001
+138,3rd & West,Barton Springs @ Kinney Ave,106,30.2678,-97.75189,30.261999999999997,-97.76118000000001
+753,4th & Congress,Barton Springs @ Kinney Ave,22,30.266340000000003,-97.74378,30.261999999999997,-97.76118000000001
+730,Nueces & 3rd,Barton Springs @ Kinney Ave,23,30.26697,-97.74929,30.261999999999997,-97.76118000000001
+166,Barton Springs @ Kinney Ave,Barton Springs @ Kinney Ave,93,30.261999999999997,-97.76118000000001,30.261999999999997,-97.76118000000001
+389,Hollow Creek & Barton Hills,Barton Springs @ Kinney Ave,43,30.261390000000002,-97.77234,30.261999999999997,-97.76118000000001
+665,Riverside @ S. Lamar,Republic Square @ 5th & Guadalupe,25,30.264459999999996,-97.75665,30.267529999999997,-97.74805
+615,Pfluger Bridge @ W 2nd Street,Republic Square @ 5th & Guadalupe,28,30.26717,-97.75484,30.267529999999997,-97.74805
+215,Long Center @ South 1st & Riverside,Republic Square @ 5th & Guadalupe,72,30.25941,-97.74971,30.267529999999997,-97.74805
+315,Republic Square @ 5th & Guadalupe,Republic Square @ 5th & Guadalupe,51,30.267529999999997,-97.74805,30.267529999999997,-97.74805
+631,3rd & West,Republic Square @ 5th & Guadalupe,27,30.2678,-97.75189,30.267529999999997,-97.74805
+545,5th & Bowie,Republic Square @ 5th & Guadalupe,31,30.2696,-97.75332,30.267529999999997,-97.74805
+666,Riverside @ S. Lamar,Hollow Creek & Barton Hills,25,30.264459999999996,-97.75665,30.261390000000002,-97.77234
+555,Pfluger Bridge @ W 2nd Street,Hollow Creek & Barton Hills,30,30.26717,-97.75484,30.261390000000002,-97.77234
+355,Sterzing at Barton Springs,Hollow Creek & Barton Hills,46,30.264059999999997,-97.76385,30.261390000000002,-97.77234
+452,Barton Springs @ Kinney Ave,Hollow Creek & Barton Hills,38,30.261999999999997,-97.76118000000001,30.261390000000002,-97.77234
+249,Hollow Creek & Barton Hills,Hollow Creek & Barton Hills,62,30.261390000000002,-97.77234,30.261390000000002,-97.77234
+686,Riverside @ S. Lamar,2nd & Congress,25,30.264459999999996,-97.75665,30.26408,-97.74355
+505,Zilker Park,2nd & Congress,33,30.2659,-97.76822,30.26408,-97.74355
+754,MoPac Pedestrian Bridge @ Veterans Drive,2nd & Congress,22,30.274659999999997,-97.77028,30.26408,-97.74355
+247,Rainey St @ Cummings,2nd & Congress,63,30.25579,-97.73982,30.26408,-97.74355
+640,Barton Springs Pool,2nd & Congress,27,30.26452,-97.7712,30.26408,-97.74355
+560,Pfluger Bridge @ W 2nd Street,2nd & Congress,30,30.26717,-97.75484,30.26408,-97.74355
+499,Palmer Auditorium,2nd & Congress,33,30.25971,-97.75346,30.26408,-97.74355
+105,South Congress & Barton Springs at the Austin American-Statesman,2nd & Congress,143,30.258390000000002,-97.74592,30.26408,-97.74355
+575,Sterzing at Barton Springs,2nd & Congress,29,30.264059999999997,-97.76385,30.26408,-97.74355
+592,Long Center @ South 1st & Riverside,2nd & Congress,29,30.25941,-97.74971,30.26408,-97.74355
+52,2nd & Congress,2nd & Congress,273,30.26408,-97.74355,30.26408,-97.74355
+305,Capitol Station / Congress & 11th,2nd & Congress,53,30.2726,-97.74127,30.26408,-97.74355
+353,Davis at Rainey Street,2nd & Congress,46,30.26019,-97.73845,30.26408,-97.74355
+232,3rd & West,2nd & Congress,67,30.2678,-97.75189,30.26408,-97.74355
+547,Convention Center / 3rd & Trinity,2nd & Congress,31,30.264259999999997,-97.74023000000001,30.26408,-97.74355
+561,5th & Bowie,2nd & Congress,30,30.2696,-97.75332,30.26408,-97.74355
+145,South Congress & Elizabeth,2nd & Congress,102,30.24891,-97.75019,30.26408,-97.74355
+680,Nueces & 3rd,2nd & Congress,25,30.26697,-97.74929,30.26408,-97.74355
+171,South Congress & James,2nd & Congress,91,30.25103,-97.74925999999999,30.26408,-97.74355
+236,South Congress & Academy,2nd & Congress,65,30.252259999999996,-97.74854,30.26408,-97.74355
+421,Trinity & 6th Street,2nd & Congress,40,30.26735,-97.73933000000001,30.26408,-97.74355
+416,Convention Center / 4th St. @ MetroRail,2nd & Congress,40,30.26483,-97.73899999999999,30.26408,-97.74355
+771,Riverside @ S. Lamar,South Congress & Academy,21,30.264459999999996,-97.75665,30.252259999999996,-97.74854
+688,Zilker Park,South Congress & Academy,24,30.2659,-97.76822,30.252259999999996,-97.74854
+551,Rainey St @ Cummings,South Congress & Academy,31,30.25579,-97.73982,30.252259999999996,-97.74854
+636,Palmer Auditorium,South Congress & Academy,27,30.25971,-97.75346,30.252259999999996,-97.74854
+271,Congress & Cesar Chavez,South Congress & Academy,57,30.26332,-97.74508,30.252259999999996,-97.74854
+356,South Congress & Barton Springs at the Austin American-Statesman,South Congress & Academy,46,30.258390000000002,-97.74592,30.252259999999996,-97.74854
+639,Sterzing at Barton Springs,South Congress & Academy,27,30.264059999999997,-97.76385,30.252259999999996,-97.74854
+567,2nd & Congress,South Congress & Academy,30,30.26408,-97.74355,30.252259999999996,-97.74854
+579,Capitol Station / Congress & 11th,South Congress & Academy,29,30.2726,-97.74127,30.252259999999996,-97.74854
+724,4th & Congress,South Congress & Academy,23,30.266340000000003,-97.74378,30.252259999999996,-97.74854
+524,South Congress & Academy,South Congress & Academy,32,30.252259999999996,-97.74854,30.252259999999996,-97.74854
+523,Zilker Park,South Congress & James,32,30.2659,-97.76822,30.25103,-97.74925999999999
+742,Lakeshore @ Austin Hostel,South Congress & James,22,30.24472,-97.72336,30.25103,-97.74925999999999
+722,Barton Springs Pool,South Congress & James,23,30.26452,-97.7712,30.25103,-97.74925999999999
+325,Congress & Cesar Chavez,South Congress & James,50,30.26332,-97.74508,30.25103,-97.74925999999999
+169,South Congress & Barton Springs at the Austin American-Statesman,South Congress & James,91,30.258390000000002,-97.74592,30.25103,-97.74925999999999
+699,Sterzing at Barton Springs,South Congress & James,24,30.264059999999997,-97.76385,30.25103,-97.74925999999999
+365,2nd & Congress,South Congress & James,45,30.26408,-97.74355,30.25103,-97.74925999999999
+532,Capitol Station / Congress & 11th,South Congress & James,32,30.2726,-97.74127,30.25103,-97.74925999999999
+795,Davis at Rainey Street,South Congress & James,21,30.26019,-97.73845,30.25103,-97.74925999999999
+321,4th & Congress,South Congress & James,50,30.266340000000003,-97.74378,30.25103,-97.74925999999999
+188,South Congress & James,South Congress & James,81,30.25103,-97.74925999999999,30.25103,-97.74925999999999
+759,Zilker Park,4th & Congress,22,30.2659,-97.76822,30.266340000000003,-97.74378
+276,Rainey St @ Cummings,4th & Congress,56,30.25579,-97.73982,30.266340000000003,-97.74378
+87,Pfluger Bridge @ W 2nd Street,4th & Congress,168,30.26717,-97.75484,30.266340000000003,-97.74378
+733,South Congress & Barton Springs at the Austin American-Statesman,4th & Congress,23,30.258390000000002,-97.74592,30.266340000000003,-97.74378
+758,Long Center @ South 1st & Riverside,4th & Congress,22,30.25941,-97.74971,30.266340000000003,-97.74378
+544,Capitol Station / Congress & 11th,4th & Congress,31,30.2726,-97.74127,30.266340000000003,-97.74378
+199,8th & Congress,4th & Congress,78,30.2698,-97.74186,30.266340000000003,-97.74378
+772,Davis at Rainey Street,4th & Congress,21,30.26019,-97.73845,30.266340000000003,-97.74378
+108,3rd & West,4th & Congress,140,30.2678,-97.75189,30.266340000000003,-97.74378
+220,4th & Congress,4th & Congress,71,30.266340000000003,-97.74378,30.266340000000003,-97.74378
+678,6th & Congress,4th & Congress,25,30.26822,-97.74285,30.266340000000003,-97.74378
+298,5th & Bowie,4th & Congress,53,30.2696,-97.75332,30.266340000000003,-97.74378
+456,South Congress & Elizabeth,4th & Congress,38,30.24891,-97.75019,30.266340000000003,-97.74378
+340,Nueces & 3rd,4th & Congress,48,30.26697,-97.74929,30.266340000000003,-97.74378
+597,South Congress & James,4th & Congress,29,30.25103,-97.74925999999999,30.266340000000003,-97.74378
+160,Rainey St @ Cummings,Brazos & 6th,95,30.25579,-97.73982,30.267540000000004,-97.74154
+738,Pfluger Bridge @ W 2nd Street,Brazos & 6th,22,30.26717,-97.75484,30.267540000000004,-97.74154
+651,2nd & Congress,Brazos & 6th,26,30.26408,-97.74355,30.267540000000004,-97.74154
+620,Capitol Station / Congress & 11th,Brazos & 6th,28,30.2726,-97.74127,30.267540000000004,-97.74154
+736,Plaza Saltillo,Brazos & 6th,22,30.26217,-97.72743,30.267540000000004,-97.74154
+463,City Hall / Lavaca & 2nd,Brazos & 6th,37,30.26476,-97.74678,30.267540000000004,-97.74154
+710,Republic Square @ 5th & Guadalupe,Brazos & 6th,23,30.267529999999997,-97.74805,30.267540000000004,-97.74154
+309,Davis at Rainey Street,Brazos & 6th,52,30.26019,-97.73845,30.267540000000004,-97.74154
+700,6th & Chalmers,Brazos & 6th,24,30.262690000000003,-97.72438000000001,30.267540000000004,-97.74154
+721,Red River/Cesar Chavez @ The Fairmont,Brazos & 6th,23,30.26212,-97.73815,30.267540000000004,-97.74154
+204,Nueces & 3rd,Brazos & 6th,75,30.26697,-97.74929,30.267540000000004,-97.74154
+291,Brazos & 6th,Brazos & 6th,54,30.267540000000004,-97.74154,30.267540000000004,-97.74154
+395,Rainey St @ Cummings,Red River/Cesar Chavez @ The Fairmont,42,30.25579,-97.73982,30.26212,-97.73815
+644,11th & Salina,Red River/Cesar Chavez @ The Fairmont,27,30.266379999999998,-97.7214,30.26212,-97.73815
+598,Davis at Rainey Street,Red River/Cesar Chavez @ The Fairmont,28,30.26019,-97.73845,30.26212,-97.73815
+115,Red River/Cesar Chavez @ The Fairmont,Red River/Cesar Chavez @ The Fairmont,129,30.26212,-97.73815,30.26212,-97.73815
+511,Rainey St @ Cummings,Plaza Saltillo,33,30.25579,-97.73982,30.26217,-97.72743
+732,Palmer Auditorium,Plaza Saltillo,23,30.25971,-97.75346,30.26217,-97.72743
+435,2nd & Congress,Plaza Saltillo,39,30.26408,-97.74355,30.26217,-97.72743
+97,8th & Congress,Plaza Saltillo,152,30.2698,-97.74186,30.26217,-97.72743
+376,Plaza Saltillo,Plaza Saltillo,44,30.26217,-97.72743,30.26217,-97.72743
+570,City Hall / Lavaca & 2nd,Plaza Saltillo,30,30.26476,-97.74678,30.26217,-97.72743
+682,Davis at Rainey Street,Plaza Saltillo,25,30.26019,-97.73845,30.26217,-97.72743
+329,3rd & West,Plaza Saltillo,49,30.2678,-97.75189,30.26217,-97.72743
+528,Convention Center / 3rd & Trinity,Plaza Saltillo,32,30.264259999999997,-97.74023000000001,30.26217,-97.72743
+610,4th & Congress,Plaza Saltillo,28,30.266340000000003,-97.74378,30.26217,-97.72743
+764,6th & Congress,Plaza Saltillo,22,30.26822,-97.74285,30.26217,-97.72743
+565,5th & Bowie,Plaza Saltillo,30,30.2696,-97.75332,30.26217,-97.72743
+263,Nueces & 3rd,Plaza Saltillo,58,30.26697,-97.74929,30.26217,-97.72743
+697,Red River & 8th Street,Plaza Saltillo,24,30.26854,-97.73646,30.26217,-97.72743
+296,East 6th & Pedernales St.,Plaza Saltillo,54,30.25895,-97.71475,30.26217,-97.72743
+543,Convention Center / 4th St. @ MetroRail,Plaza Saltillo,31,30.26483,-97.73899999999999,30.26217,-97.72743
+657,Capital Metro HQ - East 5th at Broadway,Plaza Saltillo,26,30.2563,-97.71007,30.26217,-97.72743
+540,East 6th at Robert Martinez,Plaza Saltillo,31,30.26032,-97.71899,30.26217,-97.72743
+591,Rainey St @ Cummings,Convention Center / 4th St. @ MetroRail,29,30.25579,-97.73982,30.26483,-97.73899999999999
+709,Pfluger Bridge @ W 2nd Street,Convention Center / 4th St. @ MetroRail,24,30.26717,-97.75484,30.26483,-97.73899999999999
+399,South Congress & Barton Springs at the Austin American-Statesman,Convention Center / 4th St. @ MetroRail,42,30.258390000000002,-97.74592,30.26483,-97.73899999999999
+431,Long Center @ South 1st & Riverside,Convention Center / 4th St. @ MetroRail,40,30.25941,-97.74971,30.26483,-97.73899999999999
+391,2nd & Congress,Convention Center / 4th St. @ MetroRail,42,30.26408,-97.74355,30.26483,-97.73899999999999
+606,8th & Congress,Convention Center / 4th St. @ MetroRail,28,30.2698,-97.74186,30.26483,-97.73899999999999
+482,Plaza Saltillo,Convention Center / 4th St. @ MetroRail,35,30.26217,-97.72743,30.26483,-97.73899999999999
+760,City Hall / Lavaca & 2nd,Convention Center / 4th St. @ MetroRail,22,30.26476,-97.74678,30.26483,-97.73899999999999
+293,Nueces & 3rd,Convention Center / 4th St. @ MetroRail,54,30.26697,-97.74929,30.26483,-97.73899999999999
+553,East 4th & Chicon,Convention Center / 4th St. @ MetroRail,30,30.259870000000003,-97.72373,30.26483,-97.73899999999999
+306,Convention Center / 4th St. @ MetroRail,Convention Center / 4th St. @ MetroRail,53,30.26483,-97.73899999999999,30.26483,-97.73899999999999
+681,Rainey St @ Cummings,6th & Congress,25,30.25579,-97.73982,30.26822,-97.74285
+288,Pfluger Bridge @ W 2nd Street,6th & Congress,54,30.26717,-97.75484,30.26822,-97.74285
+577,Palmer Auditorium,6th & Congress,29,30.25971,-97.75346,30.26822,-97.74285
+729,Long Center @ South 1st & Riverside,6th & Congress,23,30.25941,-97.74971,30.26822,-97.74285
+221,Capitol Station / Congress & 11th,6th & Congress,70,30.2726,-97.74127,30.26822,-97.74285
+300,8th & Congress,6th & Congress,53,30.2698,-97.74186,30.26822,-97.74285
+487,Davis at Rainey Street,6th & Congress,35,30.26019,-97.73845,30.26822,-97.74285
+303,3rd & West,6th & Congress,53,30.2678,-97.75189,30.26822,-97.74285
+109,6th & Chalmers,6th & Congress,139,30.262690000000003,-97.72438000000001,30.26822,-97.74285
+167,6th & Congress,6th & Congress,92,30.26822,-97.74285,30.26822,-97.74285
+179,5th & Bowie,6th & Congress,84,30.2696,-97.75332,30.26822,-97.74285
+557,Nueces & 3rd,6th & Congress,30,30.26697,-97.74929,30.26822,-97.74285
+638,South Congress & James,6th & Congress,27,30.25103,-97.74925999999999,30.26822,-97.74285
+746,Trinity & 6th Street,6th & Congress,22,30.26735,-97.73933000000001,30.26822,-97.74285
+767,Medina & East 6th,6th & Congress,22,30.26455,-97.73165,30.26822,-97.74285
+756,Rainey St @ Cummings,East 2nd & Pedernales,22,30.25579,-97.73982,30.25542,-97.71665
+774,6th & Chalmers,East 2nd & Pedernales,21,30.262690000000003,-97.72438000000001,30.25542,-97.71665
+404,East 2nd & Pedernales,East 2nd & Pedernales,41,30.25542,-97.71665,30.25542,-97.71665
+796,Rainey St @ Cummings,East 4th & Chicon,21,30.25579,-97.73982,30.259870000000003,-97.72373
+744,Nash Hernandez @ RBJ South,East 4th & Chicon,22,30.251890000000003,-97.73323,30.259870000000003,-97.72373
+398,3rd & West,East 4th & Chicon,42,30.2678,-97.75189,30.259870000000003,-97.72373
+397,East 4th & Chicon,East 4th & Chicon,42,30.259870000000003,-97.72373,30.259870000000003,-97.72373
+692,Guadalupe & 21st,5th & Campbell,24,30.28395,-97.74198,30.274890000000003,-97.76483
+622,3rd & West,5th & Campbell,28,30.2678,-97.75189,30.274890000000003,-97.76483
+649,Lake Austin Blvd @ Deep Eddy,5th & Campbell,26,30.27807,-97.77271999999999,30.274890000000003,-97.76483
+393,5th & Campbell,5th & Campbell,42,30.274890000000003,-97.76483,30.274890000000003,-97.76483
+572,Pfluger Bridge @ W 2nd Street,Trinity & 6th Street,30,30.26717,-97.75484,30.26735,-97.73933000000001
+490,2nd & Congress,Trinity & 6th Street,35,30.26408,-97.74355,30.26735,-97.73933000000001
+317,Davis at Rainey Street,Trinity & 6th Street,50,30.26019,-97.73845,30.26735,-97.73933000000001
+301,Trinity & 6th Street,Trinity & 6th Street,53,30.26735,-97.73933000000001,30.26735,-97.73933000000001
+654,Pfluger Bridge @ W 2nd Street,Lake Austin Blvd @ Deep Eddy,26,30.26717,-97.75484,30.27807,-97.77271999999999
+182,Lake Austin Blvd @ Deep Eddy,Lake Austin Blvd @ Deep Eddy,83,30.27807,-97.77271999999999,30.27807,-97.77271999999999
+698,5th & Campbell,Lake Austin Blvd @ Deep Eddy,24,30.274890000000003,-97.76483,30.27807,-97.77271999999999
+648,Palmer Auditorium,South Congress & Elizabeth,26,30.25971,-97.75346,30.24891,-97.75019
+513,Congress & Cesar Chavez,South Congress & Elizabeth,33,30.26332,-97.74508,30.24891,-97.75019
+314,South Congress & Barton Springs at the Austin American-Statesman,South Congress & Elizabeth,51,30.258390000000002,-97.74592,30.24891,-97.75019
+717,Sterzing at Barton Springs,South Congress & Elizabeth,23,30.264059999999997,-97.76385,30.24891,-97.75019
+526,Long Center @ South 1st & Riverside,South Congress & Elizabeth,32,30.25941,-97.74971,30.24891,-97.75019
+587,2nd & Congress,South Congress & Elizabeth,29,30.26408,-97.74355,30.24891,-97.75019
+798,4th & Congress,South Congress & Elizabeth,21,30.266340000000003,-97.74378,30.24891,-97.75019
+599,6th & Congress,South Congress & Elizabeth,28,30.26822,-97.74285,30.24891,-97.75019
+408,South Congress & Elizabeth,South Congress & Elizabeth,41,30.24891,-97.75019,30.24891,-97.75019
+672,South Congress @ Bouldin Creek,South Congress & Elizabeth,25,30.25495,-97.74755,30.24891,-97.75019
+589,South Congress & Barton Springs at the Austin American-Statesman,South Congress @ Bouldin Creek,29,30.258390000000002,-97.74592,30.25495,-97.74755
+564,South Congress & James,South Congress @ Bouldin Creek,30,30.25103,-97.74925999999999,30.25495,-97.74755
+258,South Congress @ Bouldin Creek,South Congress @ Bouldin Creek,59,30.25495,-97.74755,30.25495,-97.74755
+474,11th & Salina,Rosewood & Chicon,36,30.266379999999998,-97.7214,30.26969,-97.71873000000001
+569,11th & Salina,6th & Chalmers,30,30.266379999999998,-97.7214,30.262690000000003,-97.72438000000001
+345,6th & Chalmers,6th & Chalmers,47,30.262690000000003,-97.72438000000001,30.262690000000003,-97.72438000000001
+161,6th & Congress,6th & Chalmers,95,30.26822,-97.74285,30.262690000000003,-97.72438000000001
+518,East 6th & Pedernales St.,6th & Chalmers,32,30.25895,-97.71475,30.262690000000003,-97.72438000000001
+461,Long Center @ South 1st & Riverside,East 6th at Robert Martinez,37,30.25941,-97.74971,30.26032,-97.71899
+782,Plaza Saltillo,East 6th at Robert Martinez,21,30.26217,-97.72743,30.26032,-97.71899
+438,East 6th at Robert Martinez,East 6th at Robert Martinez,39,30.26032,-97.71899,30.26032,-97.71899
+783,2nd & Congress,Red River & 8th Street,21,30.26408,-97.74355,30.26854,-97.73646
+768,Plaza Saltillo,Red River & 8th Street,22,30.26217,-97.72743,30.26854,-97.73646
+385,Davis at Rainey Street,Red River & 8th Street,43,30.26019,-97.73845,30.26854,-97.73646
+600,Red River/Cesar Chavez @ The Fairmont,Red River & 8th Street,28,30.26212,-97.73815,30.26854,-97.73646
+165,Red River & 8th Street,Red River & 8th Street,93,30.26854,-97.73646,30.26854,-97.73646
+292,Plaza Saltillo,East 6th & Pedernales St.,54,30.26217,-97.72743,30.25895,-97.71475
+537,6th & Chalmers,East 6th & Pedernales St.,31,30.262690000000003,-97.72438000000001,30.25895,-97.71475
+668,5th & Bowie,East 6th & Pedernales St.,25,30.2696,-97.75332,30.25895,-97.71475
+655,East 6th & Pedernales St.,East 6th & Pedernales St.,26,30.25895,-97.71475,30.25895,-97.71475
+316,East 11th St. & San Marcos,10th & Red River,51,30.269679999999997,-97.73074,30.27024,-97.73578
+779,11th & San Jacinto,10th & Red River,21,30.271929999999998,-97.73854,30.27024,-97.73578
+500,10th & Red River,10th & Red River,33,30.27024,-97.73578,30.27024,-97.73578
+720,Davis at Rainey Street,Medina & East 6th,23,30.26019,-97.73845,30.26455,-97.73165
+425,Medina & East 6th,Medina & East 6th,40,30.26455,-97.73165,30.26455,-97.73165
+719,3rd & West,West & 6th St.,23,30.2678,-97.75189,30.27041,-97.75046
+412,West & 6th St.,West & 6th St.,41,30.27041,-97.75046,30.27041,-97.75046
+713,8th & Lavaca,West & 6th St.,23,30.270590000000002,-97.74441,30.27041,-97.75046
+694,Nueces & 3rd,Capital Metro HQ - East 5th at Broadway,24,30.26697,-97.74929,30.2563,-97.71007
+337,Capital Metro HQ - East 5th at Broadway,Capital Metro HQ - East 5th at Broadway,48,30.2563,-97.71007,30.2563,-97.71007
+703,Lake Austin Blvd @ Deep Eddy,Lake Austin & Enfield,24,30.27807,-97.77271999999999,30.294390000000003,-97.78375
+396,Lake Austin & Enfield,Lake Austin & Enfield,42,30.294390000000003,-97.78375,30.294390000000003,-97.78375
+436,11th & San Jacinto,11th & San Jacinto,39,30.271929999999998,-97.73854,30.271929999999998,-97.73854
+581,8th & Lavaca,8th & Lavaca,29,30.270590000000002,-97.74441,30.270590000000002,-97.74441
+472,East 11th St. at Victory Grill,East 11th St. at Victory Grill,36,30.268959999999996,-97.72843,30.268959999999996,-97.72843
+731,13th & San Antonio,13th & San Antonio,23,30.276159999999997,-97.74488000000001,30.276159999999997,-97.74488000000001
+683,Lavaca & 6th,Lavaca & 6th,25,30.268890000000003,-97.74525,30.268890000000003,-97.74525
+683,Lavaca & 6th,Lavaca & 6th,25,30.268890000000003,-97.74525,30.269109999999998,-97.7462
+683,Lavaca & 6th,Lavaca & 6th,25,30.269109999999998,-97.7462,30.268890000000003,-97.74525
+683,Lavaca & 6th,Lavaca & 6th,25,30.269109999999998,-97.7462,30.269109999999998,-97.7462

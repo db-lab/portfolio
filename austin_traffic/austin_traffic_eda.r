@@ -4,14 +4,9 @@ library(RJSONIO)
 library(plyr)
 library(tidyverse)
 library(lubridate)
-library("ggmap")  # Google's Terms of Service: https://cloud.google.com/maps-platform/terms/.
-                #Please cite ggmap if you use it! See citation("ggmap") for details.
-
-
+library("ggmap")  
 
 traffic <- read_csv("Traffic_Count_Study_area.csv")
-
-
 
 # clean column names
 traffic <- as.data.frame(traffic) %>% dplyr::rename(location = '24 HOUR VOLUME COUNT LOCATIONS',
@@ -32,7 +27,6 @@ traffic$date <- as.Date(traffic$date)
 # Data ranges from 2001 - 2015
 traffic %>%   summarise(min = min(date),
                         max = max(date))
-
 
 
 # Filter date range to only include dates since 1/1/2010
@@ -95,7 +89,7 @@ traffic$longitude <- as.numeric(traffic$longitude)
 
 # plot coordinates
 # Set API Key
-ggmap::register_google(key = "AIzaSyA94oLsseE35T4_081pfqaeePzAP0ePvi0")
+ggmap::register_google(key = Sys.getenv("GOOGLE_MAP_API"))
 
 # set up base map
 p <- ggmap(get_googlemap(center = c(lon = -97.7431, lat = 30.32),
@@ -114,6 +108,4 @@ p + geom_point(aes(x = longitude, y = latitude, color = total_volume, shape = di
         axis.text.y=element_blank(),
         axis.ticks.y=element_blank()) + 
   scale_color_gradient(low = "green",high = "red",  trans='log', breaks = c(150, 1000, 8000)) 
-
-
 

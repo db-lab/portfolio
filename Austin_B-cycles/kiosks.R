@@ -14,7 +14,7 @@ top_trips <- read.csv(file = "top_trip_counts_df.csv")
 # Filter out trips that start and end in the same kiosk
 top_trips <- top_trips %>% filter(!(checkout_lat == return_lat & checkout_long == return_long))
 
-# Enter API credentials - export api so it's not visible
+# Enter API credentials 
 register_google(key = Sys.getenv("GOOGLE_MAP_API"))
 
 

@@ -1,26 +1,28 @@
-install.packages("RJSONIO")
-
+library(RJSONIO)
 library(RCurl)
 library(RJSONIO)
 library(plyr)
 library(tidyverse)
 library(lubridate)
-library("ggmap")
+library("ggmap")  # Google's Terms of Service: https://cloud.google.com/maps-platform/terms/.
+                #Please cite ggmap if you use it! See citation("ggmap") for details.
 
-traffic <- read_csv("C:/Users/Valued Customer/Documents/R Scripts/austin-traffic/Traffic_Count_Study_area.csv")
+
+
+traffic <- read_csv("Traffic_Count_Study_area.csv")
 
 
 
 # clean column names
-traffic <- as.data.frame(traffic) %>% rename(location = '24 HOUR VOLUME COUNT LOCATIONS',
-                              northbound = 'NB TOTAL',
-                              southbound = 'SB TOTAL',
-                              eastbound = 'EB TOTAL',
-                              westbound = 'WB TOTOAL',
-                              total_volume = 'TOTAL VOLUME',
-                              date = DATE)
+traffic <- as.data.frame(traffic) %>% dplyr::rename(location = '24 HOUR VOLUME COUNT LOCATIONS',
+                                             northbound = 'NB TOTAL',
+                                             southbound = 'SB TOTAL',
+                                             eastbound = 'EB TOTAL',
+                                             westbound = 'WB TOTOAL',
+                                             total_volume = 'TOTAL VOLUME',
+                                             date = DATE)
 
-# Delete time since it is midnight for all entries, convert to date
+# Remove time since it is midnight for all entries, convert to date
 traffic$date <- gsub(" .*", "", traffic$date)
 traffic <- traffic %>% 
               mutate(date = mdy(date)) 
@@ -34,13 +36,15 @@ traffic %>%   summarise(min = min(date),
 
 
 # Filter date range to only include dates since 1/1/2010
-
 traffic <- traffic %>% filter(date >= as.Date("2010/01/01"))
 nrow(traffic)
 
 
 # Remove extra location info
 traffic$location <- gsub(" - .*","", traffic$location)
+
+# Add column for shows east-west or north south traffic flow
+traffic$direction <- ifelse(is.na(traffic$eastbound) | is.na(traffic$westbound), 'north-south', 'east-west')
 
 # Locate GPS coordinates of location
 api_key = 'AIzaSyD_lrb7PLeFP8l-q_p6r9RA4Pz1llCxyE0'
@@ -93,43 +97,26 @@ traffic$longitude <- as.numeric(traffic$longitude)
 # Set API Key
 ggmap::register_google(key = "AIzaSyA94oLsseE35T4_081pfqaeePzAP0ePvi0")
 
-p <- ggmap(get_googlemap(center = c(lon = -97.7431, lat = 30.2672),
+# set up base map
+p <- ggmap(get_googlemap(center = c(lon = -97.7431, lat = 30.32),
                          zoom = 11, scale = 2,
                          maptype ='terrain',
                          color = 'color'))
 
-p + geom_point(aes(x = longitude, y = latitude,  color = total_volume), data = traffic, size = 2) + ggtitle("Traffic hotspots in Austin, TX") + theme(axis.text.x=element_blank(), axis.ticks.x=element_blank(), axis.text.y=element_blank(), axis.ticks.y=element_blank()) + scale_color_gradient(low = "green",high = "red",  trans='log') 
 
-# first we separate traffic into eastbound, westbound, northbound, and southbound
 
-p + geom_point(aes(x = longitude, y = latitude,  color = total_volume), data = traffic, size = 2) + ggtitle("Traffic hotspots in Austin, TX") + theme(axis.text.x=element_blank(), axis.ticks.x=element_blank(), axis.text.y=element_blank(), axis.ticks.y=element_blank()) + scale_color_gradient(low = "green",high = "red",  trans='log') 
 
-eastbound <- traffic %>% filter(is.na(eastbound) == FALSE) %>% mutate(latitude = latitude + .0015) %>% select(eastbound, latitude, longitude)
 
-westbound <- traffic %>% filter(is.na(westbound) == FALSE) %>% mutate(latitude = latitude - .0015) %>% select(westbound, latitude, longitude)
-
-northbound <- traffic %>% filter(is.na(northbound) == FALSE) %>% mutate(longitude = longitude + .0015) %>% select(northbound, latitude, longitude)
-
-southbound <- traffic %>% filter(is.na(southbound) == FALSE) %>% mutate(longitude = longitude - .0015) %>% select(southbound, latitude, longitude)
-
-p + geom_point(aes(x = longitude, y = latitude, color = eastbound), data = eastbound, size = 2, shape = 22) +
-  geom_point(aes(x = longitude, y = latitude, color = westbound), data = westbound, size = 2, shape = 21) +
-  geom_point(aes(x = longitude, y = latitude, color = northbound), data = northbound, size = 2, shape = 24) +
-  geom_point(aes(x = longitude, y = latitude, color = southbound), data = southbound, size = 2, shape = 25) +
+p + geom_point(aes(x = longitude, y = latitude, color = total_volume, shape = direction), data = traffic, size = 2) +
   ggtitle("Traffic hotspots in Austin, TX") + 
-  theme(axis.text.x=element_blank(), axis.ticks.x=element_blank(), axis.text.y=element_blank(), axis.ticks.y=element_blank()) + 
-  scale_color_gradient(low = "green",high = "red",  trans='log') 
+  theme(plot.title = element_text(hjust = 0.5),
+        axis.title.x=element_blank(), 
+        axis.text.x=element_blank(),
+        axis.ticks.x=element_blank(), 
+        axis.title.y=element_blank(), 
+        axis.text.y=element_blank(),
+        axis.ticks.y=element_blank()) + 
+  scale_color_gradient(low = "green",high = "red",  trans='log', breaks = c(150, 1000, 8000)) 
 
-# there is no visual difference between northbound/southbound rates and eastbound/westbound rates and the map is cluttered by shapes, so we will aggregate into two groups
 
-eastwest <- traffic %>% filter(is.na(eastbound) == FALSE) %>% select(total_volume, latitude, longitude)
-northsouth <- traffic %>% filter(is.na(northbound) == FALSE) %>% select(total_volume, latitude, longitude)
-
-p + geom_point(aes(x = longitude, y = latitude, color = total_volume), data = eastwest, size = 2, shape = 15) +
-  geom_point(aes(x = longitude, y = latitude, color = total_volume), data = northsouth, size = 2, shape = 17) +
-  ggtitle("Traffic hotspots in Austin, TX") + 
-  theme(axis.text.x=element_blank(), axis.ticks.x=element_blank(), axis.text.y=element_blank(), axis.ticks.y=element_blank()) + 
-  scale_color_gradient(low = "green",high = "red",  trans='log') 
-
-# This is a better and more clear representation of the data
 

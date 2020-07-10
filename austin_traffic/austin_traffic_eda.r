@@ -103,11 +103,8 @@ p <- ggmap(get_googlemap(center = c(lon = -97.7431, lat = 30.32),
                          maptype ='terrain',
                          color = 'color'))
 
-
-
-
-
-p + geom_point(aes(x = longitude, y = latitude, color = total_volume, shape = direction), data = traffic, size = 2) +
+# Add coordinates to base map
+p + geom_point(aes(x = longitude, y = latitude, color = total_volume, shape = direction), data = traffic, size = 2, alpha = .6) +
   ggtitle("Traffic hotspots in Austin, TX") + 
   theme(plot.title = element_text(hjust = 0.5),
         axis.title.x=element_blank(), 

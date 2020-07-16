@@ -41,9 +41,7 @@ traffic$location <- gsub(" - .*","", traffic$location)
 traffic$direction <- ifelse(is.na(traffic$eastbound) | is.na(traffic$westbound), 'north-south', 'east-west')
 
 # Locate GPS coordinates of location
-#api_key = 'AIzaSyD_lrb7PLeFP8l-q_p6r9RA4Pz1llCxyE0'
 api_key = Sys.getenv("GOOGLE_MAP_API")
-
 
 
 # Convert location into url with api

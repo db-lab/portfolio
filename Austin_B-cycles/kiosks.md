@@ -6,6 +6,7 @@ output:
     keep_md: yes
   pdf_document: default
 ---
+
 We will use the gps data provided for bike kiosks and the trip data to map out popular kiosk pairs that are travelled to and from. The darker shaded routes are more heavily travelled.
 
 

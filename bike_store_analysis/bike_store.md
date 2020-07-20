@@ -440,9 +440,10 @@ store_sales_distribution <- dbGetQuery(con, "
 # plot all three histograms together
 store_sales_distribution %>% 
   ggplot() +
-  geom_histogram(aes(net_sale, fill=store_name), binwidth=750, alpha=.5) +
+  geom_histogram(aes(net_sale, fill=factor(store_name, levels = c("Rowlett Bikes", "Santa Cruz Bikes", "Baldwin Bikes"))), binwidth=750) +
   ggtitle("Number of Sales") +
-  labs(x="Dollar Amount of Order After Discount", fill='Store Name')
+  labs(x="Dollar Amount of Order After Discount", fill='Store Name') +
+  scale_fill_manual(values=c("#999999", "#E69F00", "#56B4E9"))
 ```
 
 ![](bike_store_files/figure-html/unnamed-chunk-10-1.png)<!-- -->

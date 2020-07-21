@@ -369,7 +369,7 @@ sales_per_customer_df %>%
 
 ![](bike_store_files/figure-html/unnamed-chunk-7-2.png)<!-- -->
 
-We see that Baldwin Bikes not only pulls in much more customers than the other stores, but also generates higher revenue per customer. We'd still like to dive deeper to see what accounts for this success.
+Baldwin Bikes not only pulls in much more customers than the other stores, but also generates higher revenue per customer. We'd still like to dive deeper to see what accounts for this success.
 Perhaps they are using a different discounting strategy?
 
 
@@ -393,7 +393,7 @@ print(store_discounts_df)
 ## 2    Rowlett Bikes          0.094900
 ## 3    Baldwin Bikes          0.105390
 ```
-We see that Baldwin Bikes' average discount rate falls in the middle of the three stores. The takeaway is that they are likely not employing a significantly different discount strategy. Is it possible they are pushing customers to purchase more items at a time?
+Baldwin Bikes' average discount rate falls in the middle of the three stores. The takeaway is that they are likely not employing a significantly different discount strategy. Is it possible they are pushing customers to purchase more items at a time?
 
 
 ```r
@@ -422,7 +422,7 @@ num_items_per_customer_df %>%
 ## 2    Rowlett Bikes           4.382353
 ## 3 Santa Cruz Bikes           4.211765
 ```
-We see that yes, Baldwin Bikes is more likely to get repeat business from customers, whether through active marketing or luck.
+In fact Baldwin Bikes is more likely to get repeat business from customers, whether through active marketing or luck.
 Finally, is it possible that they are just selling more expensive items?
 
 
@@ -443,12 +443,13 @@ store_sales_distribution %>%
   geom_histogram(aes(net_sale, fill=factor(store_name, levels = c("Rowlett Bikes", "Santa Cruz Bikes", "Baldwin Bikes"))), binwidth=750) +
   ggtitle("Number of Sales") +
   labs(x="Dollar Amount of Order After Discount", fill='Store Name') +
-  scale_fill_manual(values=c("#999999", "#E69F00", "#56B4E9"))
+  scale_fill_manual(values=c("#999999", "#E69F00", "#56B4E9")) +
+  theme(plot.title = element_text(hjust = 0.5))
 ```
 
 ![](bike_store_files/figure-html/unnamed-chunk-10-1.png)<!-- -->
 
-Again we see that Baldwin Bikes excels at all price levels. Let's adjust the distribution to account for their high sales volume and see how their sales vary for different price levels in relation to each store's total sales to gain better insight. 
+Again, Baldwin Bikes excels at all price levels. Let's adjust the distribution to account for their high sales volume and see how their sales vary for different price levels in relation to each store's total sales to gain better insight. 
 
 
 ```r

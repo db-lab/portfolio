@@ -1,6 +1,5 @@
-# Portfolio
+# Projects
 
-## Projects
 
 ## Austin Animal Shelter
 Analyzing the factors that lead to certain outcomes of animals (adoption, transfer, return to owner, death, euthanasia)

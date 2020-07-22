@@ -38,11 +38,7 @@ scale = 2,
 maptype ='terrain',
 color = 'bw',
 style=c(style1, style2)))
-```
 
-    ## Source : https://maps.googleapis.com/maps/api/staticmap?center=30.2672,-97.7431&zoom=14&size=640x640&scale=2&maptype=terrain&style=feature:all%7Celement:labels%7Cvisibility:off%7C:&style=%7Cfeature:administrative.neighborhood%7Celement:labels%7Cvisibility:on&key=xxx
-
-``` r
 p + 
   geom_curve(data = top_trips, 
              aes(x = checkout_long, y = checkout_lat, 
@@ -60,11 +56,7 @@ p +
         axis.title.y=element_blank(),
         axis.text.y=element_blank(),
         axis.ticks.y=element_blank()) +
-  ggtitle("Austin BCycle Most Travelled Routes In 2019")
+  ggtitle("Austin BCycle Most Traveled Routes In 2019")
 ```
 
-    ## Coordinate system already present. Adding new coordinate system, which will replace the existing one.
-
-    ## Warning: Removed 91 rows containing missing values (geom_curve).
-
-![](kiosks_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
+![](kiosks_files/figure-gfm/fig1-1.png)<!-- -->

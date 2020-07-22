@@ -2,10 +2,7 @@
 title: "Revenue Analysis"
 author: "Dustin Bowman"
 
-output:
-  html_document:
-    keep_md: yes
-  pdf_document: default
+output: rmarkdown::github_document
 ---
 This is an analysis of data from three bike stores with the goal of seeing where business improvements can be made.
 Raw data: https://www.sqlservertutorial.net/sql-server-sample-database/
@@ -118,7 +115,7 @@ total_sales_brands_tidy %>%
   scale_fill_manual(labels = c("Monthly Avg", "Total"), values = c("orange", "blue")) 
 ```
 
-Note the log scaled y axis. The monthly average sales fall in line with the total sales and Strider remains the worst performer for total sales and average monthly sales 
+Note the log scaled x axis. The monthly average sales fall in line with the total sales and Strider remains the worst performer for total sales and average monthly sales. 
 
 Next let's analyze sales by category and gender.
 
@@ -358,13 +355,15 @@ Again, Baldwin Bikes excels at all price levels. Let's adjust the distribution t
 # Plot the three density plots together
 store_sales_distribution %>% 
   ggplot() +
-  geom_density(aes(net_sale, fill=store_name), alpha=.3) +
+  geom_density(aes(net_sale, fill=store_name), alpha=.6) +
   ggtitle("Distribution of Order Sizes Per Store") +
-  labs(x="Dollar Amount of Order After Discount", fill='Store Name')
+  labs(x="Dollar Amount of Order After Discount", fill='Store Name') +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  scale_fill_manual(values=c("red", "blue", "green"))
 
 ```
 
-This plot shows the breakdown of how large orders are for the three stores. Baldwin and Santa Cruz mirror the shape of each other for smaller orders, while Rowlet captures more mid-range orders. Baldwin generates a lot of revenue on orders in the $5,000-$7,000 range and $12,000+ range.
+The stores do have similar distributions, although Baldwin generates a lot of revenue on orders in the $5,000-$7,000 range and $12,000+ range.
 
 # Conclusion
 

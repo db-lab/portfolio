@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
-# Projects
+## Projects
 
-# Austin Animal Shelter
+## Austin Animal Shelter
 Analyzing the factors that lead to certain outcomes of animals (adoption, transfer, return to owner, death, euthanasia)
 
 Techniques
@@ -13,7 +13,7 @@ Techniques
 * Machine learning - XGBClassifier
 * Python / Jupyter notebook
 
-# Bike Store Analysis
+## Bike Store Analysis
 Revenue analysis of three bike stores
 
 Techniques
@@ -23,7 +23,7 @@ Techniques
 * Data visualization
 * Business analysis, KPIs
 
-# Austin B-Cycles
+## Austin B-Cycles
 In depth exploration and regression analysis of bike share program
 
 Techniques
@@ -38,7 +38,7 @@ Techniques
 * R
 * Geo mapping
 
-# Austin Traffic Hotspots Visualization
+## Austin Traffic Hotspots Visualization
 
 Techniques
 * API integration

@@ -2,7 +2,7 @@
 title: "Revenue Analysis"
 author: "Dustin Bowman"
 
-output: rmarkdown::github_document
+output: github_document
 ---
 This is an analysis of data from three bike stores with the goal of seeing where business improvements can be made.
 Raw data: https://www.sqlservertutorial.net/sql-server-sample-database/

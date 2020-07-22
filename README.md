@@ -34,7 +34,7 @@ Techniques
 * API integration
 * Machine learning - regression, scikitlearn
 * Python / Jupyter notebook
-* R
+* R / R-markdown
 * Geo mapping
 
 ## Austin Traffic Hotspots Visualization
@@ -42,4 +42,4 @@ Techniques
 Techniques
 * API integration
 * Geo mapping
-* R
+* R / R-markdown

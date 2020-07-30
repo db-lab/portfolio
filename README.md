@@ -37,6 +37,16 @@ Techniques
 * R / R-markdown
 * Geo mapping
 
+## Stack Exchange
+Analysis of online Q & A platform
+
+Techniques
+* SQL
+* Python / Jupyter notebook
+* Data cleaning
+* Data visualization
+
+
 ## Austin Traffic Hotspots Visualization
 
 Techniques

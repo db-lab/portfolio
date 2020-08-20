@@ -1,0 +1,1 @@
+See [chinook_analysis.ipynb](https://github.com/db-lab/portfolio/tree/master/chinook_biz_analysis/chinook_analysis.ipynb) for the report and [chinook-schema.svg](https://github.com/db-lab/portfolio/blob/master/chinook_biz_analysis/chinook-schema.svg) for the database schema.

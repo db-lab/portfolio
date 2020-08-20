@@ -53,3 +53,10 @@ Techniques
 * API integration
 * Geo mapping
 * R / R-markdown
+
+## Chinook Business Analysis
+
+Techniques
+* Exploratory data analysis, business analysis
+* Data Visualization
+* Python / Jupyter notebook / SQLite integration

@@ -4,6 +4,8 @@
 ## Austin Animal Shelter
 Analyzing the factors that lead to certain outcomes of animals (adoption, transfer, return to owner, death, euthanasia)
 
+[link to project](https://github.com/db-lab/portfolio/tree/master/animal_shelter)
+
 Techniques
 * Kaggle competition submission
 * Exploratory data analysis
@@ -15,6 +17,8 @@ Techniques
 ## Bike Store Analysis
 Revenue analysis of three bike stores
 
+[link to project](https://github.com/db-lab/portfolio/tree/master/bike_store_analysis)
+
 Techniques
 * SQL
 * R / R-markdown
@@ -24,6 +28,8 @@ Techniques
 
 ## Austin B-Cycles
 In depth exploration and regression analysis of bike share program
+
+[link to project](https://github.com/db-lab/portfolio/tree/master/Austin_B-cycles)
 
 Techniques
 * Exploratory data analysis
@@ -40,6 +46,8 @@ Techniques
 ## Stack Exchange
 Analysis of online Q & A platform
 
+[link to project](https://github.com/db-lab/portfolio/tree/master/stack_exchange)
+
 Techniques
 * SQL
 * Python / Jupyter notebook
@@ -48,6 +56,9 @@ Techniques
 
 
 ## Austin Traffic Hotspots Visualization
+Visualization of traffic hotspots and flow for the city of Austin
+
+[link to project](https://github.com/db-lab/portfolio/tree/master/austin_traffic)
 
 Techniques
 * API integration
@@ -55,6 +66,9 @@ Techniques
 * R / R-markdown
 
 ## Chinook Business Analysis
+Record store business analysis
+
+[link to project](https://github.com/db-lab/portfolio/tree/master/chinook_biz_analysis)
 
 Techniques
 * Exploratory data analysis, business analysis

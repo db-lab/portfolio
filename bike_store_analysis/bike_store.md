@@ -2,8 +2,7 @@ Revenue Analysis
 ================
 Dustin Bowman
 
-This is an analysis of data from three bike stores with the goal of
-seeing where business improvements can be made. Raw data:
+This is an analysis of data from three bike stores that seeks strategies to improve business sales and operations. Raw data:
 <https://www.sqlservertutorial.net/sql-server-sample-database/>
 
 ``` r

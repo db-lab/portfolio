@@ -43,6 +43,19 @@ Techniques
 * R / R-markdown
 * Geo mapping
 
+## Cryptocurrency Swing Trading
+Real world application of trading algorithm
+
+[link to project](https://github.com/db-lab/portfolio/tree/master/stablecoins)
+
+Techniques
+* Python / Jupyter notebook
+* Exploratory data analysis
+* Data visualization
+* Seaborn heatmaps
+* API requests
+* Market analysis
+
 ## Stack Exchange
 Analysis of online Q & A platform
 
@@ -53,6 +66,7 @@ Techniques
 * Python / Jupyter notebook
 * Data cleaning
 * Data visualization
+* NLP, wordcloud
 
 
 ## Austin Traffic Hotspots Visualization

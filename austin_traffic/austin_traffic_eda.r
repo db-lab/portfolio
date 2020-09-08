@@ -28,11 +28,9 @@ traffic$date <- as.Date(traffic$date)
 traffic %>%   summarise(min = min(date),
                         max = max(date))
 
-
 # Filter date range to only include dates since 1/1/2010
 traffic <- traffic %>% filter(date >= as.Date("2010/01/01"))
 nrow(traffic)
-
 
 # Remove extra location info
 traffic$location <- gsub(" - .*","", traffic$location)
@@ -110,3 +108,4 @@ p + geom_point(aes(x = longitude, y = latitude, color = total_volume, shape = di
         axis.ticks.y=element_blank()) + 
   scale_color_gradient(low = "green",high = "red",  trans='log', breaks = c(150, 1000, 8000)) 
 
+traffic %>% filter(total_volume > 8000) %>% select(location) %>% unique() 

@@ -1,6 +1,6 @@
 Austin Traffic Hotspots
 ================
-Dustin Bowman
+We have been given raw traffic data collected by the city and asked to provide a visual representation that shows traffic hotspots and direction of flow.
 
 ``` r
 library(RJSONIO)

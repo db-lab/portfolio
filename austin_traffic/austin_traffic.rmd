@@ -1,9 +1,8 @@
 ---
 title: "Austin Traffic Hotspots"
-author: "Dustin Bowman"
 output: github_document
 ---
-
+We have been given raw traffic data collected by the city and asked to provide a visual representation that shows traffic hotspots and direction of flow.
 ```{r echo=T, message=F, warning=F, fig1, fig.height = 12, fig.width = 12}
 library(RJSONIO)
 library(RCurl)
@@ -116,3 +115,8 @@ p + geom_point(aes(x = longitude, y = latitude, color = total_volume, shape = di
   scale_color_gradient(low = "green",high = "red",  trans='log', breaks = c(150, 1000, 8000)) 
 ```
 
+Note the total_volume gradient scale is log based. Unsurprisingly, we see high activity in downtown Austin, which is an obvious constant battle. We also see other deep red markers scattered around town in less conspicuous areas. Alleviating these high traffic areas could have a significant impact. We can produce a list of these hot spots to assess (more than 8000 cars per day).
+
+``` {r}
+traffic %>% filter(total_volume > 8000) %>% select(location) %>% unique() 
+```

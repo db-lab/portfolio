@@ -125,4 +125,7 @@ p + geom_point(aes(x = longitude, y = latitude, color = total_volume, shape = di
 
 ![](austin_traffic_files/figure-gfm/fig1-1.png)<!-- -->
 
-Note the total_volume gradient scale is log based. Unsurprisingly, we see high activity in downtown Austin, which is an obvious constant battle. We also see other deep red markers scattered around town in less conspicuous areas. Alleviating these high traffic areas could have a significant impact.
+Note the total_volume gradient scale is log based. Unsurprisingly, we see high activity in downtown Austin, which is an obvious constant battle. We also see other deep red markers scattered around town in less conspicuous areas. Alleviating these high traffic areas could have a significant impact. We can produce a list of these hot spots to assess (more than 8000 cars per day).
+``` r
+traffic %>% filter(total_volume > 8000) %>% select(location) %>% unique() 
+```

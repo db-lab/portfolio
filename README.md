@@ -15,7 +15,7 @@ Techniques
 * Python / Jupyter notebook
 
 ## Bike Store Analysis
-Revenue analysis of three bike stores
+Business analysis of three bike stores
 
 [link to project](https://github.com/db-lab/portfolio/tree/master/bike_store_analysis)
 
